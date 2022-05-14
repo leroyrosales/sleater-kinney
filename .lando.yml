@@ -1,0 +1,4 @@
+name: greenwattpower
+recipe: wordpress
+config:
+  webroot: .

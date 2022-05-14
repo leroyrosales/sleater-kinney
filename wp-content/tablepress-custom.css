@@ -1,0 +1,229 @@
+/* ===REPRESENTATIVES CONTACT=== */
+.representatives-contact thead th {
+	color: #000505;
+	border: 1px solid #959595;
+	background: #D0EDD5;
+	padding: 8px !important;
+	text-align: center;
+}
+
+.representatives-contact tbody td {
+	min-width: 20%;
+	padding: 8px !important;
+	border: 1px solid #959595;
+	vertical-align: middle;
+	line-height: 1.5;
+}
+
+.representatives-contact tbody .column-1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+/* table.representatives-contact {
+	width: 90%;
+} */
+.representatives-contact .column-1 {
+	width: 20%;
+}
+
+.representatives-contact .column-2 {
+	width: 40%;
+}
+
+.representatives-contact .column-3 {
+	width: 40%;
+}
+
+/* ===END REPRESENTATIVES CONTACT=== */
+/* ===ACDC PRODUCT SELECTOR=== */
+.product-selector-2 thead th {
+	color: #000505;
+	border: 1px solid #959595;
+	background: #D0EDD5;
+	padding: 8px !important;
+	text-align: center;
+}
+
+/* .tablepress {
+	table-layout: auto;
+	width: 100% !important;
+} */
+/* .product-selector-2 thead .sorting_asc,
+.product-selector-2 thead .sorting_desc,
+.product-selector-2 thead .sorting:hover {
+	background-color: #BAD8BF;
+} */
+/* .product-selector-2 .column-1,
+.product-selector-2 .column-2,
+.product-selector-2 .column-3,
+.product-selector-2 .column-4,
+.product-selector-2 .column-5,
+.product-selector-2 .column-6,
+.product-selector-2 .column-7,
+.product-selector-2 .column-8,
+.product-selector-2 .column-9 {
+	width: 10%;
+}
+ */
+.product-selector-2 tbody td {
+	min-width: 20%;
+	padding: 8px !important;
+	border: 1px solid #959595;
+	vertical-align: middle;
+}
+
+.product-selector-2 td a {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.product-selector-2 tbody .column-1 {
+	text-align: center;
+}
+
+/* @media screen and (max-width: 768px) {
+
+	.product-selector-2 thead th,
+	.product-selector-2 tbody td {
+		font-size: 1em !important;
+		font-weight: normal !important;
+		margin: 0 !important;
+		padding-top: 0 !important;
+		padding-bottom: 0 !important;
+		border: 1px solid #696969 !important;
+	}
+
+} */
+/* END -- ACDC PRODUCT SELECTOR */
+/* PRODUCT TABLES */
+.tablepress-technical-table thead th {
+	background-color: #FDFDFD;
+	color: #57bf6d;
+	text-align: center;
+	border: 1px solid #959595;
+	border: solid 1px #333;
+}
+
+.tablepress-technical-table tbody {
+	border: 1px solid #959595 !important;
+}
+
+.tablepress-technical-table tbody td {
+	text-align: center;
+	border: solid 1px #333;
+	vertical-align: middle;
+}
+
+/* ====3000 Watt Bi-directional DC/DC Converter EVDB Series==== */
+.tablepress-id-64 tr:nth-child(2) {
+	background-color: #FDFDFD;
+	color: #57bf6d;
+}
+
+.tablepress-id-64 tr:nth-child(6) {
+	background-color: #FDFDFD;
+	color: #57bf6d;
+}
+
+.tablepress-id-64 tr:nth-child(11) {
+	background-color: #FDFDFD;
+	color: #57bf6d;
+}
+
+/* ====HP LED PRODUCT SELECTOR==== */
+.hpled-product-selector thead th {
+	text-align: center;
+}
+
+.hpled-product-selector tbody td {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.hpled-product-selector a:hover {
+}
+
+.hpled-product-selector tbody>tr>:nth-child(1) {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+/* ===HP LED TECHNICAL TABLE=== */
+.hpled-technical-table {
+	background-color: #FDFDFD;
+	color: #57bf6d;
+	text-align: center;
+}
+
+.hpled-technical-table tbody td {
+	text-align: center;
+}
+
+.hpled-technical-table tbody>tr>:nth-child(1) {
+	font-weight: bold;
+	border-right: 1px solid #ddd;
+	background-color: #eee;
+}
+
+/* Events Table */
+.events-table {
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
+}
+
+.events-table tr {
+	background: white;
+	border-bottom: 1px solid;
+}
+
+.events-table th,
+.events-table td {
+	padding: 10px 20px;
+}
+
+.events-table td span {
+	background: #eee;
+	color: dimgrey;
+	display: none;
+	font-size: 10px;
+	font-weight: bold;
+	padding: 5px;
+	position: absolute;
+	text-transform: uppercase;
+	top: 0;
+	left: 0;
+}
+
+/* Simple CSS for flexbox table on mobile */
+@media(max-width: 800px) {
+
+	.events-table thead {
+		left: -9999px;
+		position: absolute;
+		visibility: hidden;
+	}
+
+	.events-table tr {
+		border-bottom: 0;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		margin-bottom: 40px;
+	}
+
+	.events-table td {
+		border: 1px solid;
+		margin: 0 -1px -1px 0;
+		padding-top: 35px;
+		position: relative;
+		width: 50%;
+	}
+
+	.events-table td span {
+		display: block;
+	}
+
+}

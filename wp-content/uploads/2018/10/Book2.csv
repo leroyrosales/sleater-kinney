@@ -1,0 +1,11 @@
+GWP Series,Desc,"GWP Model 
+(EVC-Vo-watts)",Series,Pld Model #,Watts,Vi,Vo,Amps,CAN
+EVC-84,"84W 17~42Vo, Li-Ion Charger, “Oasis-S” Series ",,PLD084S,,84,90-264Vac,17~42,2,no
+EVC-84,,EVC-29-59,,PLD084S-2940200,58.8,90-264Vac,17~29.4,2,no
+EVC-84,,EVC-42-84,,PLD084S-4200200,84,90-264Vac,27~42,2,no
+EVC-85,"85W 12~64Vo, Li-Ion Charger, “Oasis-G” Series",,PLD085G,,85,90-264Vac,12~63,1.4~4.0,no
+1,2,3,4,5,6,7,8,9,10
+1,2,3,4,5,6,7,8,9,10
+1,2,3,4,5,6,7,8,9,10
+1,2,3,4,5,6,7,8,9,10
+1,2,3,4,5,6,7,8,9,10

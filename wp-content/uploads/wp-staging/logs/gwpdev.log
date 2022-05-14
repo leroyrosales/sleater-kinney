@@ -1,0 +1,1622 @@
+[INFO]-[2019/01/31 00:41:39] DB Copy: Creating table wpstg0_5b006zr5x7_commentmeta
+[INFO]-[2019/01/31 00:41:39] DB Copy: Creating table wpstg0_5b006zr5x7_commentmeta
+[INFO]-[2019/01/31 00:41:39] DB Copy: Creating table wpstg0_5b006zr5x7_comments
+[INFO]-[2019/01/31 00:41:39] DB Copy: wp_5b006zr5x7_comments as wpstg0_5b006zr5x7_comments from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:39] DB Copy: Creating table wpstg0_5b006zr5x7_comments
+[INFO]-[2019/01/31 00:41:39] DB Copy: wp_5b006zr5x7_comments as wpstg0_5b006zr5x7_comments from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:40] DB Copy: Creating table wpstg0_5b006zr5x7_links
+[INFO]-[2019/01/31 00:41:40] DB Copy: Creating table wpstg0_5b006zr5x7_links
+[INFO]-[2019/01/31 00:41:40] DB Copy: Creating table wpstg0_5b006zr5x7_options
+[INFO]-[2019/01/31 00:41:40] DB Copy: wp_5b006zr5x7_options as wpstg0_5b006zr5x7_options from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:40] DB Copy: Creating table wpstg0_5b006zr5x7_options
+[INFO]-[2019/01/31 00:41:40] DB Copy: wp_5b006zr5x7_options as wpstg0_5b006zr5x7_options from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:41] DB Copy: Creating table wpstg0_5b006zr5x7_postmeta
+[INFO]-[2019/01/31 00:41:41] DB Copy: wp_5b006zr5x7_postmeta as wpstg0_5b006zr5x7_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:41] DB Copy: Creating table wpstg0_5b006zr5x7_postmeta
+[INFO]-[2019/01/31 00:41:41] DB Copy: wp_5b006zr5x7_postmeta as wpstg0_5b006zr5x7_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:41] DB Copy: Creating table wpstg0_5b006zr5x7_posts
+[INFO]-[2019/01/31 00:41:41] DB Copy: wp_5b006zr5x7_posts as wpstg0_5b006zr5x7_posts from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:41] DB Copy: Creating table wpstg0_5b006zr5x7_posts
+[INFO]-[2019/01/31 00:41:41] DB Copy: wp_5b006zr5x7_posts as wpstg0_5b006zr5x7_posts from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:41] DB Copy: Creating table wpstg0_5b006zr5x7_term_relationships
+[INFO]-[2019/01/31 00:41:41] DB Copy: wp_5b006zr5x7_term_relationships as wpstg0_5b006zr5x7_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:41] DB Copy: Creating table wpstg0_5b006zr5x7_term_relationships
+[INFO]-[2019/01/31 00:41:41] DB Copy: wp_5b006zr5x7_term_relationships as wpstg0_5b006zr5x7_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:42] DB Copy: Creating table wpstg0_5b006zr5x7_term_taxonomy
+[INFO]-[2019/01/31 00:41:42] DB Copy: wp_5b006zr5x7_term_taxonomy as wpstg0_5b006zr5x7_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:42] DB Copy: Creating table wpstg0_5b006zr5x7_term_taxonomy
+[INFO]-[2019/01/31 00:41:42] DB Copy: wp_5b006zr5x7_term_taxonomy as wpstg0_5b006zr5x7_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:42] DB Copy: Creating table wpstg0_5b006zr5x7_termmeta
+[INFO]-[2019/01/31 00:41:42] DB Copy: Creating table wpstg0_5b006zr5x7_termmeta
+[INFO]-[2019/01/31 00:41:42] DB Copy: Creating table wpstg0_5b006zr5x7_terms
+[INFO]-[2019/01/31 00:41:42] DB Copy: wp_5b006zr5x7_terms as wpstg0_5b006zr5x7_terms from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:42] DB Copy: Creating table wpstg0_5b006zr5x7_terms
+[INFO]-[2019/01/31 00:41:42] DB Copy: wp_5b006zr5x7_terms as wpstg0_5b006zr5x7_terms from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_5b006zr5x7_usermeta
+[INFO]-[2019/01/31 00:41:43] DB Copy: wp_5b006zr5x7_usermeta as wpstg0_5b006zr5x7_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_5b006zr5x7_usermeta
+[INFO]-[2019/01/31 00:41:43] DB Copy: wp_5b006zr5x7_usermeta as wpstg0_5b006zr5x7_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_5b006zr5x7_users
+[INFO]-[2019/01/31 00:41:43] DB Copy: wp_5b006zr5x7_users as wpstg0_5b006zr5x7_users from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_5b006zr5x7_users
+[INFO]-[2019/01/31 00:41:43] DB Copy: wp_5b006zr5x7_users as wpstg0_5b006zr5x7_users from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/01/31 00:41:43] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/01/31 00:41:44] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/01/31 00:41:44] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/01/31 00:41:44] DB Copy: Creating table wpstg0_maxbuttons_collections
+[INFO]-[2019/01/31 00:41:44] DB Copy: Creating table wpstg0_maxbuttons_collections
+[INFO]-[2019/01/31 00:41:44] DB Copy: Creating table wpstg0_maxbuttons_collections_trans
+[INFO]-[2019/01/31 00:41:44] DB Copy: Creating table wpstg0_maxbuttons_collections_trans
+[INFO]-[2019/01/31 00:41:45] DB Copy: Creating table wpstg0_maxbuttonsv3
+[INFO]-[2019/01/31 00:41:45] DB Copy: wp_maxbuttonsv3 as wpstg0_maxbuttonsv3 from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:45] DB Copy: Creating table wpstg0_maxbuttonsv3
+[INFO]-[2019/01/31 00:41:45] DB Copy: wp_maxbuttonsv3 as wpstg0_maxbuttonsv3 from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:45] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/01/31 00:41:45] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:45] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/01/31 00:41:45] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:45] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/01/31 00:41:45] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:45] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/01/31 00:41:45] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:47] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/01/31 00:41:47] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:47] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/01/31 00:41:47] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:48] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/01/31 00:41:48] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:48] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/01/31 00:41:48] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:48] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/01/31 00:41:48] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:48] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/01/31 00:41:48] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:48] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/01/31 00:41:48] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/01/31 00:41:49] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/01/31 00:41:49] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:49] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/01/31 00:41:49] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:49] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/01/31 00:41:49] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:49] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/01/31 00:41:49] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:50] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/01/31 00:41:50] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:50] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/01/31 00:41:50] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:50] DB Copy: Creating table wpstg0_wpdatacharts
+[INFO]-[2019/01/31 00:41:50] DB Copy: Creating table wpstg0_wpdatacharts
+[INFO]-[2019/01/31 00:41:50] DB Copy: Creating table wpstg0_wpdatatables
+[INFO]-[2019/01/31 00:41:50] DB Copy: wp_wpdatatables as wpstg0_wpdatatables from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:50] DB Copy: Creating table wpstg0_wpdatatables
+[INFO]-[2019/01/31 00:41:50] DB Copy: wp_wpdatatables as wpstg0_wpdatatables from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:51] DB Copy: Creating table wpstg0_wpdatatables_columns
+[INFO]-[2019/01/31 00:41:51] DB Copy: wp_wpdatatables_columns as wpstg0_wpdatatables_columns from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:51] DB Copy: Creating table wpstg0_wpdatatables_columns
+[INFO]-[2019/01/31 00:41:51] DB Copy: wp_wpdatatables_columns as wpstg0_wpdatatables_columns from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:51] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/01/31 00:41:51] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:51] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/01/31 00:41:51] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:52] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/01/31 00:41:52] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/01/31 00:41:52] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/01/31 00:41:52] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:41:53] DB Processing:  Table wpstg0_5b006zr5x7_comments 0 to 5000 records
+[INFO]-[2019/01/31 00:41:53] DB Processing:  Table wpstg0_5b006zr5x7_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:41:53] DB Processing:  Table wpstg0_5b006zr5x7_options 0 to 5000 records
+[INFO]-[2019/01/31 00:41:53] DB Processing:  Table wpstg0_5b006zr5x7_options 0 to 5000 records
+[INFO]-[2019/01/31 00:41:53] DB Processing:  Table wpstg0_5b006zr5x7_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 00:41:53] DB Processing:  Table wpstg0_5b006zr5x7_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 00:41:54] DB Processing:  Table wpstg0_5b006zr5x7_posts 0 to 5000 records
+[INFO]-[2019/01/31 00:41:54] DB Processing:  Table wpstg0_5b006zr5x7_posts 0 to 5000 records
+[INFO]-[2019/01/31 00:41:54] DB Processing:  Table wpstg0_5b006zr5x7_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 00:41:54] DB Processing:  Table wpstg0_5b006zr5x7_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 00:41:55] DB Processing:  Table wpstg0_5b006zr5x7_term_taxonomy 0 to 5000 records
+[INFO]-[2019/01/31 00:41:55] DB Processing:  Table wpstg0_5b006zr5x7_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:41:55] DB Processing:  Table wpstg0_5b006zr5x7_terms 0 to 5000 records
+[INFO]-[2019/01/31 00:41:55] DB Processing:  Table wpstg0_5b006zr5x7_terms 0 to 5000 records
+[INFO]-[2019/01/31 00:41:56] DB Processing:  Table wpstg0_5b006zr5x7_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 00:41:56] DB Processing:  Table wpstg0_5b006zr5x7_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 00:41:56] DB Processing:  Table wpstg0_5b006zr5x7_users 0 to 5000 records
+[INFO]-[2019/01/31 00:41:56] DB Processing:  Table wpstg0_5b006zr5x7_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:42:02] DB Processing:  Table wpstg0_maxbuttonsv3 0 to 5000 records
+[INFO]-[2019/01/31 00:42:02] DB Processing:  Table wpstg0_maxbuttonsv3 0 to 5000 records
+[INFO]-[2019/01/31 00:42:02] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/01/31 00:42:02] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/01/31 00:42:03] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 00:42:03] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 00:42:06] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/01/31 00:42:06] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/01/31 00:42:10] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 00:42:10] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 00:42:10] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/01/31 00:42:10] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:42:12] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/01/31 00:42:12] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/01/31 00:42:13] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 00:42:13] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 00:42:14] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/01/31 00:42:14] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:42:17] DB Processing:  Table wpstg0_wpdatatables 0 to 5000 records
+[INFO]-[2019/01/31 00:42:17] DB Processing:  Table wpstg0_wpdatatables 0 to 5000 records
+[INFO]-[2019/01/31 00:42:17] DB Processing:  Table wpstg0_wpdatatables_columns 0 to 5000 records
+[INFO]-[2019/01/31 00:42:17] DB Processing:  Table wpstg0_wpdatatables_columns 0 to 5000 records
+[INFO]-[2019/01/31 00:42:18] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/01/31 00:42:18] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/01/31 00:42:19] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/01/31 00:42:19] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:42:21] Scanning / for files
+[INFO]-[2019/01/31 00:42:21] Scanning / for files
+[INFO]-[2019/01/31 00:42:21] Scanning wp-content folder /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content
+[INFO]-[2019/01/31 00:42:21] Scanning wp-content folder /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content
+[INFO]-[2019/01/31 00:42:27] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/01/31 00:42:27] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/01/31 00:42:28] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/01/31 00:42:28] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/01/31 00:42:30] Copying files...
+[INFO]-[2019/01/31 00:42:30] Total 50 files processed
+[INFO]-[2019/01/31 00:42:30] Copying files...
+[INFO]-[2019/01/31 00:42:30] Total 50 files processed
+[INFO]-[2019/01/31 00:42:31] Total 100 files processed
+[INFO]-[2019/01/31 00:42:31] Total 100 files processed
+[INFO]-[2019/01/31 00:42:32] Total 150 files processed
+[INFO]-[2019/01/31 00:42:32] Total 150 files processed
+[INFO]-[2019/01/31 00:42:33] Total 200 files processed
+[INFO]-[2019/01/31 00:42:33] Total 200 files processed
+[INFO]-[2019/01/31 00:42:34] Total 250 files processed
+[INFO]-[2019/01/31 00:42:34] Total 250 files processed
+[INFO]-[2019/01/31 00:42:35] Total 300 files processed
+[INFO]-[2019/01/31 00:42:35] Total 300 files processed
+[INFO]-[2019/01/31 00:42:36] Total 350 files processed
+[INFO]-[2019/01/31 00:42:36] Total 350 files processed
+[INFO]-[2019/01/31 00:42:37] Total 400 files processed
+[INFO]-[2019/01/31 00:42:37] Total 400 files processed
+[INFO]-[2019/01/31 00:42:38] Total 450 files processed
+[INFO]-[2019/01/31 00:42:38] Total 450 files processed
+[INFO]-[2019/01/31 00:42:39] Total 500 files processed
+[INFO]-[2019/01/31 00:42:39] Total 500 files processed
+[INFO]-[2019/01/31 00:42:40] Total 550 files processed
+[INFO]-[2019/01/31 00:42:40] Total 550 files processed
+[INFO]-[2019/01/31 00:42:41] Total 600 files processed
+[INFO]-[2019/01/31 00:42:41] Total 600 files processed
+[INFO]-[2019/01/31 00:42:42] Total 650 files processed
+[INFO]-[2019/01/31 00:42:42] Total 650 files processed
+[INFO]-[2019/01/31 00:42:43] Total 700 files processed
+[INFO]-[2019/01/31 00:42:43] Total 700 files processed
+[INFO]-[2019/01/31 00:42:44] Total 750 files processed
+[INFO]-[2019/01/31 00:42:44] Total 750 files processed
+[INFO]-[2019/01/31 00:42:45] Total 800 files processed
+[INFO]-[2019/01/31 00:42:45] Total 800 files processed
+[INFO]-[2019/01/31 00:42:46] Total 850 files processed
+[INFO]-[2019/01/31 00:42:46] Total 850 files processed
+[INFO]-[2019/01/31 00:42:47] Total 900 files processed
+[INFO]-[2019/01/31 00:42:47] Total 900 files processed
+[INFO]-[2019/01/31 00:42:48] Total 950 files processed
+[INFO]-[2019/01/31 00:42:48] Total 950 files processed
+[INFO]-[2019/01/31 00:42:49] Total 1000 files processed
+[INFO]-[2019/01/31 00:42:49] Total 1000 files processed
+[INFO]-[2019/01/31 00:42:50] Total 1050 files processed
+[INFO]-[2019/01/31 00:42:50] Total 1050 files processed
+[INFO]-[2019/01/31 00:42:51] Total 1100 files processed
+[INFO]-[2019/01/31 00:42:51] Total 1100 files processed
+[INFO]-[2019/01/31 00:42:52] Total 1150 files processed
+[INFO]-[2019/01/31 00:42:52] Total 1150 files processed
+[INFO]-[2019/01/31 00:42:53] Total 1200 files processed
+[INFO]-[2019/01/31 00:42:53] Total 1200 files processed
+[INFO]-[2019/01/31 00:42:54] Total 1250 files processed
+[INFO]-[2019/01/31 00:42:54] Total 1250 files processed
+[INFO]-[2019/01/31 00:42:55] Total 1300 files processed
+[INFO]-[2019/01/31 00:42:55] Total 1300 files processed
+[INFO]-[2019/01/31 00:42:56] Total 1350 files processed
+[INFO]-[2019/01/31 00:42:56] Total 1350 files processed
+[INFO]-[2019/01/31 00:42:57] Total 1400 files processed
+[INFO]-[2019/01/31 00:42:57] Total 1400 files processed
+[INFO]-[2019/01/31 00:42:58] Total 1450 files processed
+[INFO]-[2019/01/31 00:42:58] Total 1450 files processed
+[INFO]-[2019/01/31 00:42:58] Total 1500 files processed
+[INFO]-[2019/01/31 00:42:58] Total 1500 files processed
+[INFO]-[2019/01/31 00:43:00] Total 1550 files processed
+[INFO]-[2019/01/31 00:43:00] Total 1550 files processed
+[INFO]-[2019/01/31 00:43:01] Total 1600 files processed
+[INFO]-[2019/01/31 00:43:01] Total 1600 files processed
+[INFO]-[2019/01/31 00:43:02] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js
+[INFO]-[2019/01/31 00:43:02] Total 1650 files processed
+[INFO]-[2019/01/31 00:43:02] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js
+[INFO]-[2019/01/31 00:43:02] Total 1650 files processed
+[INFO]-[2019/01/31 00:43:03] Total 1700 files processed
+[INFO]-[2019/01/31 00:43:03] Total 1700 files processed
+[INFO]-[2019/01/31 00:43:03] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js
+[INFO]-[2019/01/31 00:43:04] Total 1750 files processed
+[INFO]-[2019/01/31 00:43:03] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js
+[INFO]-[2019/01/31 00:43:04] Total 1750 files processed
+[INFO]-[2019/01/31 00:43:05] Total 1800 files processed
+[INFO]-[2019/01/31 00:43:05] Total 1800 files processed
+[INFO]-[2019/01/31 00:43:06] Total 1850 files processed
+[INFO]-[2019/01/31 00:43:06] Total 1850 files processed
+[INFO]-[2019/01/31 00:43:07] Total 1900 files processed
+[INFO]-[2019/01/31 00:43:07] Total 1900 files processed
+[INFO]-[2019/01/31 00:43:08] Total 1950 files processed
+[INFO]-[2019/01/31 00:43:08] Total 1950 files processed
+[INFO]-[2019/01/31 00:43:09] Total 2000 files processed
+[INFO]-[2019/01/31 00:43:09] Total 2000 files processed
+[INFO]-[2019/01/31 00:43:10] Total 2050 files processed
+[INFO]-[2019/01/31 00:43:10] Total 2050 files processed
+[INFO]-[2019/01/31 00:43:11] Total 2100 files processed
+[INFO]-[2019/01/31 00:43:11] Total 2100 files processed
+[INFO]-[2019/01/31 00:43:12] Total 2150 files processed
+[INFO]-[2019/01/31 00:43:12] Total 2150 files processed
+[INFO]-[2019/01/31 00:43:13] Total 2200 files processed
+[INFO]-[2019/01/31 00:43:13] Total 2200 files processed
+[INFO]-[2019/01/31 00:43:14] Total 2250 files processed
+[INFO]-[2019/01/31 00:43:14] Total 2250 files processed
+[INFO]-[2019/01/31 00:43:15] Total 2300 files processed
+[INFO]-[2019/01/31 00:43:15] Total 2300 files processed
+[INFO]-[2019/01/31 00:43:16] Total 2350 files processed
+[INFO]-[2019/01/31 00:43:16] Total 2350 files processed
+[INFO]-[2019/01/31 00:43:17] Total 2400 files processed
+[INFO]-[2019/01/31 00:43:17] Total 2400 files processed
+[INFO]-[2019/01/31 00:43:18] Total 2450 files processed
+[INFO]-[2019/01/31 00:43:18] Total 2450 files processed
+[INFO]-[2019/01/31 00:43:20] Total 2500 files processed
+[INFO]-[2019/01/31 00:43:20] Total 2500 files processed
+[INFO]-[2019/01/31 00:43:21] Total 2550 files processed
+[INFO]-[2019/01/31 00:43:21] Total 2550 files processed
+[INFO]-[2019/01/31 00:43:22] Total 2600 files processed
+[INFO]-[2019/01/31 00:43:22] Total 2600 files processed
+[INFO]-[2019/01/31 00:43:25] Total 2650 files processed
+[INFO]-[2019/01/31 00:43:25] Total 2650 files processed
+[INFO]-[2019/01/31 00:43:26] Total 2700 files processed
+[INFO]-[2019/01/31 00:43:26] Total 2700 files processed
+[INFO]-[2019/01/31 00:43:27] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map
+[INFO]-[2019/01/31 00:43:27] Total 2750 files processed
+[INFO]-[2019/01/31 00:43:27] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map
+[INFO]-[2019/01/31 00:43:27] Total 2750 files processed
+[INFO]-[2019/01/31 00:43:28] Total 2800 files processed
+[INFO]-[2019/01/31 00:43:28] Total 2800 files processed
+[INFO]-[2019/01/31 00:43:29] Total 2850 files processed
+[INFO]-[2019/01/31 00:43:29] Total 2850 files processed
+[INFO]-[2019/01/31 00:43:30] Total 2900 files processed
+[INFO]-[2019/01/31 00:43:30] Total 2900 files processed
+[INFO]-[2019/01/31 00:43:31] Total 2950 files processed
+[INFO]-[2019/01/31 00:43:31] Total 2950 files processed
+[INFO]-[2019/01/31 00:43:32] Total 3000 files processed
+[INFO]-[2019/01/31 00:43:32] Total 3000 files processed
+[INFO]-[2019/01/31 00:43:33] Total 3050 files processed
+[INFO]-[2019/01/31 00:43:33] Total 3050 files processed
+[INFO]-[2019/01/31 00:43:34] Total 3100 files processed
+[INFO]-[2019/01/31 00:43:34] Total 3100 files processed
+[INFO]-[2019/01/31 00:43:35] Total 3150 files processed
+[INFO]-[2019/01/31 00:43:35] Total 3150 files processed
+[INFO]-[2019/01/31 00:43:36] Total 3200 files processed
+[INFO]-[2019/01/31 00:43:36] Total 3200 files processed
+[INFO]-[2019/01/31 00:43:37] Total 3250 files processed
+[INFO]-[2019/01/31 00:43:37] Total 3250 files processed
+[INFO]-[2019/01/31 00:43:38] Total 3300 files processed
+[INFO]-[2019/01/31 00:43:38] Total 3300 files processed
+[INFO]-[2019/01/31 00:43:39] Total 3350 files processed
+[INFO]-[2019/01/31 00:43:39] Total 3350 files processed
+[INFO]-[2019/01/31 00:43:40] Total 3400 files processed
+[INFO]-[2019/01/31 00:43:40] Total 3400 files processed
+[INFO]-[2019/01/31 00:43:41] Total 3450 files processed
+[INFO]-[2019/01/31 00:43:41] Total 3450 files processed
+[INFO]-[2019/01/31 00:43:42] Total 3500 files processed
+[INFO]-[2019/01/31 00:43:42] Total 3500 files processed
+[INFO]-[2019/01/31 00:43:43] Total 3550 files processed
+[INFO]-[2019/01/31 00:43:43] Total 3550 files processed
+[INFO]-[2019/01/31 00:43:44] Total 3600 files processed
+[INFO]-[2019/01/31 00:43:44] Total 3600 files processed
+[INFO]-[2019/01/31 00:43:45] Total 3650 files processed
+[INFO]-[2019/01/31 00:43:45] Total 3650 files processed
+[INFO]-[2019/01/31 00:43:46] Total 3700 files processed
+[INFO]-[2019/01/31 00:43:46] Total 3700 files processed
+[INFO]-[2019/01/31 00:43:47] Total 3750 files processed
+[INFO]-[2019/01/31 00:43:47] Total 3750 files processed
+[INFO]-[2019/01/31 00:43:48] Total 3800 files processed
+[INFO]-[2019/01/31 00:43:48] Total 3800 files processed
+[INFO]-[2019/01/31 00:43:49] Total 3850 files processed
+[INFO]-[2019/01/31 00:43:49] Total 3850 files processed
+[INFO]-[2019/01/31 00:43:50] Total 3900 files processed
+[INFO]-[2019/01/31 00:43:50] Total 3900 files processed
+[INFO]-[2019/01/31 00:43:51] Total 3950 files processed
+[INFO]-[2019/01/31 00:43:51] Total 3950 files processed
+[INFO]-[2019/01/31 00:43:52] Total 4000 files processed
+[INFO]-[2019/01/31 00:43:52] Total 4000 files processed
+[INFO]-[2019/01/31 00:43:53] Total 4050 files processed
+[INFO]-[2019/01/31 00:43:53] Total 4050 files processed
+[INFO]-[2019/01/31 00:43:54] Total 4100 files processed
+[INFO]-[2019/01/31 00:43:54] Total 4100 files processed
+[INFO]-[2019/01/31 00:43:55] Total 4150 files processed
+[INFO]-[2019/01/31 00:43:55] Total 4150 files processed
+[INFO]-[2019/01/31 00:43:56] Total 4200 files processed
+[INFO]-[2019/01/31 00:43:56] Total 4200 files processed
+[INFO]-[2019/01/31 00:43:57] Total 4250 files processed
+[INFO]-[2019/01/31 00:43:57] Total 4250 files processed
+[INFO]-[2019/01/31 00:43:59] Total 4300 files processed
+[INFO]-[2019/01/31 00:43:59] Total 4300 files processed
+[INFO]-[2019/01/31 00:44:00] Total 4350 files processed
+[INFO]-[2019/01/31 00:44:00] Total 4350 files processed
+[INFO]-[2019/01/31 00:44:01] Total 4400 files processed
+[INFO]-[2019/01/31 00:44:01] Total 4400 files processed
+[INFO]-[2019/01/31 00:44:02] Total 4450 files processed
+[INFO]-[2019/01/31 00:44:02] Total 4450 files processed
+[INFO]-[2019/01/31 00:44:03] Total 4500 files processed
+[INFO]-[2019/01/31 00:44:03] Total 4500 files processed
+[INFO]-[2019/01/31 00:44:05] Total 4550 files processed
+[INFO]-[2019/01/31 00:44:05] Total 4550 files processed
+[INFO]-[2019/01/31 00:44:06] Total 4600 files processed
+[INFO]-[2019/01/31 00:44:06] Total 4600 files processed
+[INFO]-[2019/01/31 00:44:07] Total 4650 files processed
+[INFO]-[2019/01/31 00:44:07] Total 4650 files processed
+[INFO]-[2019/01/31 00:44:09] Total 4700 files processed
+[INFO]-[2019/01/31 00:44:09] Total 4700 files processed
+[INFO]-[2019/01/31 00:44:10] Total 4750 files processed
+[INFO]-[2019/01/31 00:44:10] Total 4750 files processed
+[INFO]-[2019/01/31 00:44:11] Total 4800 files processed
+[INFO]-[2019/01/31 00:44:11] Total 4800 files processed
+[INFO]-[2019/01/31 00:44:12] Total 4850 files processed
+[INFO]-[2019/01/31 00:44:12] Total 4850 files processed
+[INFO]-[2019/01/31 00:44:13] Total 4900 files processed
+[INFO]-[2019/01/31 00:44:13] Total 4900 files processed
+[INFO]-[2019/01/31 00:44:15] Total 4950 files processed
+[INFO]-[2019/01/31 00:44:15] Total 4950 files processed
+[INFO]-[2019/01/31 00:44:17] Total 5000 files processed
+[INFO]-[2019/01/31 00:44:17] Total 5000 files processed
+[INFO]-[2019/01/31 00:44:18] Total 5050 files processed
+[INFO]-[2019/01/31 00:44:18] Total 5050 files processed
+[INFO]-[2019/01/31 00:44:19] Total 5100 files processed
+[INFO]-[2019/01/31 00:44:19] Total 5100 files processed
+[INFO]-[2019/01/31 00:44:20] Total 5150 files processed
+[INFO]-[2019/01/31 00:44:20] Total 5150 files processed
+[INFO]-[2019/01/31 00:44:21] Total 5200 files processed
+[INFO]-[2019/01/31 00:44:21] Total 5200 files processed
+[INFO]-[2019/01/31 00:44:22] Total 5250 files processed
+[INFO]-[2019/01/31 00:44:22] Total 5250 files processed
+[INFO]-[2019/01/31 00:44:23] Total 5300 files processed
+[INFO]-[2019/01/31 00:44:23] Total 5300 files processed
+[INFO]-[2019/01/31 00:44:24] Total 5350 files processed
+[INFO]-[2019/01/31 00:44:24] Total 5350 files processed
+[INFO]-[2019/01/31 00:44:25] Total 5400 files processed
+[INFO]-[2019/01/31 00:44:25] Total 5400 files processed
+[INFO]-[2019/01/31 00:44:27] Total 5450 files processed
+[INFO]-[2019/01/31 00:44:27] Total 5450 files processed
+[INFO]-[2019/01/31 00:44:28] Total 5500 files processed
+[INFO]-[2019/01/31 00:44:28] Total 5500 files processed
+[INFO]-[2019/01/31 00:44:29] Total 5550 files processed
+[INFO]-[2019/01/31 00:44:29] Total 5550 files processed
+[INFO]-[2019/01/31 00:44:30] Total 5600 files processed
+[INFO]-[2019/01/31 00:44:30] Total 5600 files processed
+[INFO]-[2019/01/31 00:44:31] Total 5650 files processed
+[INFO]-[2019/01/31 00:44:31] Total 5650 files processed
+[INFO]-[2019/01/31 00:44:32] Total 5700 files processed
+[INFO]-[2019/01/31 00:44:32] Total 5700 files processed
+[INFO]-[2019/01/31 00:44:33] Total 5750 files processed
+[INFO]-[2019/01/31 00:44:33] Total 5750 files processed
+[INFO]-[2019/01/31 00:44:34] Total 5800 files processed
+[INFO]-[2019/01/31 00:44:34] Total 5800 files processed
+[INFO]-[2019/01/31 00:44:35] Total 5850 files processed
+[INFO]-[2019/01/31 00:44:35] Total 5850 files processed
+[INFO]-[2019/01/31 00:44:36] Total 5900 files processed
+[INFO]-[2019/01/31 00:44:36] Total 5900 files processed
+[INFO]-[2019/01/31 00:44:37] Total 5950 files processed
+[INFO]-[2019/01/31 00:44:37] Total 5950 files processed
+[INFO]-[2019/01/31 00:44:38] Total 6000 files processed
+[INFO]-[2019/01/31 00:44:38] Total 6000 files processed
+[INFO]-[2019/01/31 00:44:39] Total 6050 files processed
+[INFO]-[2019/01/31 00:44:39] Total 6050 files processed
+[INFO]-[2019/01/31 00:44:40] Total 6100 files processed
+[INFO]-[2019/01/31 00:44:40] Total 6100 files processed
+[INFO]-[2019/01/31 00:44:41] Total 6150 files processed
+[INFO]-[2019/01/31 00:44:41] Total 6150 files processed
+[INFO]-[2019/01/31 00:44:42] Total 6200 files processed
+[INFO]-[2019/01/31 00:44:42] Total 6200 files processed
+[INFO]-[2019/01/31 00:44:43] Total 6250 files processed
+[INFO]-[2019/01/31 00:44:43] Total 6250 files processed
+[INFO]-[2019/01/31 00:44:44] Total 6300 files processed
+[INFO]-[2019/01/31 00:44:44] Total 6300 files processed
+[INFO]-[2019/01/31 00:44:45] Total 6350 files processed
+[INFO]-[2019/01/31 00:44:45] Total 6350 files processed
+[INFO]-[2019/01/31 00:44:46] Total 6400 files processed
+[INFO]-[2019/01/31 00:44:46] Total 6400 files processed
+[INFO]-[2019/01/31 00:44:47] Total 6450 files processed
+[INFO]-[2019/01/31 00:44:47] Total 6450 files processed
+[INFO]-[2019/01/31 00:44:49] Total 6500 files processed
+[INFO]-[2019/01/31 00:44:49] Total 6500 files processed
+[INFO]-[2019/01/31 00:44:51] Total 6550 files processed
+[INFO]-[2019/01/31 00:44:51] Total 6550 files processed
+[INFO]-[2019/01/31 00:44:52] Total 6600 files processed
+[INFO]-[2019/01/31 00:44:52] Total 6600 files processed
+[INFO]-[2019/01/31 00:44:53] Total 6650 files processed
+[INFO]-[2019/01/31 00:44:53] Total 6650 files processed
+[INFO]-[2019/01/31 00:44:54] Total 6700 files processed
+[INFO]-[2019/01/31 00:44:54] Total 6700 files processed
+[INFO]-[2019/01/31 00:44:55] Total 6750 files processed
+[INFO]-[2019/01/31 00:44:55] Total 6750 files processed
+[INFO]-[2019/01/31 00:44:56] Total 6800 files processed
+[INFO]-[2019/01/31 00:44:56] Total 6800 files processed
+[INFO]-[2019/01/31 00:44:57] Total 6850 files processed
+[INFO]-[2019/01/31 00:44:57] Total 6850 files processed
+[INFO]-[2019/01/31 00:44:58] Total 6900 files processed
+[INFO]-[2019/01/31 00:44:58] Total 6900 files processed
+[INFO]-[2019/01/31 00:44:59] Total 6950 files processed
+[INFO]-[2019/01/31 00:44:59] Total 6950 files processed
+[INFO]-[2019/01/31 00:45:00] Total 7000 files processed
+[INFO]-[2019/01/31 00:45:00] Total 7000 files processed
+[INFO]-[2019/01/31 00:45:01] Total 7050 files processed
+[INFO]-[2019/01/31 00:45:01] Total 7050 files processed
+[INFO]-[2019/01/31 00:45:02] Total 7100 files processed
+[INFO]-[2019/01/31 00:45:02] Total 7100 files processed
+[INFO]-[2019/01/31 00:45:03] Total 7150 files processed
+[INFO]-[2019/01/31 00:45:03] Total 7150 files processed
+[INFO]-[2019/01/31 00:45:04] Total 7200 files processed
+[INFO]-[2019/01/31 00:45:04] Total 7200 files processed
+[INFO]-[2019/01/31 00:45:05] Total 7250 files processed
+[INFO]-[2019/01/31 00:45:05] Total 7250 files processed
+[INFO]-[2019/01/31 00:45:06] Total 7300 files processed
+[INFO]-[2019/01/31 00:45:06] Total 7300 files processed
+[INFO]-[2019/01/31 00:45:07] Total 7350 files processed
+[INFO]-[2019/01/31 00:45:07] Total 7350 files processed
+[INFO]-[2019/01/31 00:45:08] Total 7400 files processed
+[INFO]-[2019/01/31 00:45:08] Total 7400 files processed
+[INFO]-[2019/01/31 00:45:09] Total 7450 files processed
+[INFO]-[2019/01/31 00:45:09] Total 7450 files processed
+[INFO]-[2019/01/31 00:45:11] Total 7500 files processed
+[INFO]-[2019/01/31 00:45:11] Total 7500 files processed
+[INFO]-[2019/01/31 00:45:12] Total 7550 files processed
+[INFO]-[2019/01/31 00:45:12] Total 7550 files processed
+[INFO]-[2019/01/31 00:45:13] Total 7600 files processed
+[INFO]-[2019/01/31 00:45:13] Total 7600 files processed
+[INFO]-[2019/01/31 00:45:14] Total 7650 files processed
+[INFO]-[2019/01/31 00:45:14] Total 7650 files processed
+[INFO]-[2019/01/31 00:45:16] Total 7700 files processed
+[INFO]-[2019/01/31 00:45:16] Total 7700 files processed
+[INFO]-[2019/01/31 00:45:17] Total 7750 files processed
+[INFO]-[2019/01/31 00:45:17] Total 7750 files processed
+[INFO]-[2019/01/31 00:45:18] Total 7800 files processed
+[INFO]-[2019/01/31 00:45:18] Total 7800 files processed
+[INFO]-[2019/01/31 00:45:20] Total 7850 files processed
+[INFO]-[2019/01/31 00:45:20] Total 7850 files processed
+[INFO]-[2019/01/31 00:45:21] Total 7900 files processed
+[INFO]-[2019/01/31 00:45:21] Total 7900 files processed
+[INFO]-[2019/01/31 00:45:22] Total 7950 files processed
+[INFO]-[2019/01/31 00:45:22] Total 7950 files processed
+[INFO]-[2019/01/31 00:45:23] Total 8000 files processed
+[INFO]-[2019/01/31 00:45:23] Total 8000 files processed
+[INFO]-[2019/01/31 00:45:25] Total 8050 files processed
+[INFO]-[2019/01/31 00:45:25] Total 8050 files processed
+[INFO]-[2019/01/31 00:45:27] Total 8100 files processed
+[INFO]-[2019/01/31 00:45:27] Total 8100 files processed
+[INFO]-[2019/01/31 00:45:28] Total 8150 files processed
+[INFO]-[2019/01/31 00:45:28] Total 8150 files processed
+[INFO]-[2019/01/31 00:45:29] Total 8200 files processed
+[INFO]-[2019/01/31 00:45:29] Total 8200 files processed
+[INFO]-[2019/01/31 00:45:30] Total 8250 files processed
+[INFO]-[2019/01/31 00:45:30] Total 8250 files processed
+[INFO]-[2019/01/31 00:45:31] Total 8300 files processed
+[INFO]-[2019/01/31 00:45:31] Total 8300 files processed
+[INFO]-[2019/01/31 00:45:32] Total 8350 files processed
+[INFO]-[2019/01/31 00:45:32] Total 8350 files processed
+[INFO]-[2019/01/31 00:45:33] Total 8400 files processed
+[INFO]-[2019/01/31 00:45:33] Total 8400 files processed
+[INFO]-[2019/01/31 00:45:34] Total 8450 files processed
+[INFO]-[2019/01/31 00:45:34] Total 8450 files processed
+[INFO]-[2019/01/31 00:45:35] Total 8500 files processed
+[INFO]-[2019/01/31 00:45:35] Total 8500 files processed
+[INFO]-[2019/01/31 00:45:36] Total 8550 files processed
+[INFO]-[2019/01/31 00:45:36] Total 8550 files processed
+[INFO]-[2019/01/31 00:45:37] Total 8600 files processed
+[INFO]-[2019/01/31 00:45:37] Total 8600 files processed
+[INFO]-[2019/01/31 00:45:38] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg
+[INFO]-[2019/01/31 00:45:38] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV_Power.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV_Power.jpg
+[INFO]-[2019/01/31 00:45:38] Total 8650 files processed
+[INFO]-[2019/01/31 00:45:38] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg
+[INFO]-[2019/01/31 00:45:38] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV_Power.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV_Power.jpg
+[INFO]-[2019/01/31 00:45:38] Total 8650 files processed
+[INFO]-[2019/01/31 00:45:40] Total 8700 files processed
+[INFO]-[2019/01/31 00:45:40] Total 8700 files processed
+[INFO]-[2019/01/31 00:45:41] Total 8750 files processed
+[INFO]-[2019/01/31 00:45:41] Total 8750 files processed
+[INFO]-[2019/01/31 00:45:43] Total 8800 files processed
+[INFO]-[2019/01/31 00:45:43] Total 8800 files processed
+[INFO]-[2019/01/31 00:45:45] Total 8850 files processed
+[INFO]-[2019/01/31 00:45:45] Total 8850 files processed
+[INFO]-[2019/01/31 00:45:46] Total 8900 files processed
+[INFO]-[2019/01/31 00:45:46] Total 8900 files processed
+[INFO]-[2019/01/31 00:45:47] Total 8950 files processed
+[INFO]-[2019/01/31 00:45:47] Total 8950 files processed
+[INFO]-[2019/01/31 00:45:49] Total 9000 files processed
+[INFO]-[2019/01/31 00:45:49] Total 9000 files processed
+[INFO]-[2019/01/31 00:45:50] Total 9050 files processed
+[INFO]-[2019/01/31 00:45:50] Total 9050 files processed
+[INFO]-[2019/01/31 00:45:52] Total 9100 files processed
+[INFO]-[2019/01/31 00:45:52] Total 9100 files processed
+[INFO]-[2019/01/31 00:45:53] Total 9150 files processed
+[INFO]-[2019/01/31 00:45:53] Total 9150 files processed
+[INFO]-[2019/01/31 00:45:54] Total 9200 files processed
+[INFO]-[2019/01/31 00:45:54] Total 9200 files processed
+[INFO]-[2019/01/31 00:45:55] Total 9250 files processed
+[INFO]-[2019/01/31 00:45:55] Total 9250 files processed
+[INFO]-[2019/01/31 00:45:56] Total 9300 files processed
+[INFO]-[2019/01/31 00:45:56] Total 9300 files processed
+[INFO]-[2019/01/31 00:45:57] Total 9350 files processed
+[INFO]-[2019/01/31 00:45:57] Total 9350 files processed
+[INFO]-[2019/01/31 00:45:59] Total 9400 files processed
+[INFO]-[2019/01/31 00:45:59] Total 9400 files processed
+[INFO]-[2019/01/31 00:46:00] Total 9450 files processed
+[INFO]-[2019/01/31 00:46:00] Total 9450 files processed
+[INFO]-[2019/01/31 00:46:01] Total 9500 files processed
+[INFO]-[2019/01/31 00:46:01] Total 9500 files processed
+[INFO]-[2019/01/31 00:46:02] Total 9550 files processed
+[INFO]-[2019/01/31 00:46:02] Total 9550 files processed
+[INFO]-[2019/01/31 00:46:03] Total 9600 files processed
+[INFO]-[2019/01/31 00:46:03] Total 9600 files processed
+[INFO]-[2019/01/31 00:46:04] Total 9650 files processed
+[INFO]-[2019/01/31 00:46:04] Total 9650 files processed
+[INFO]-[2019/01/31 00:46:05] Total 9700 files processed
+[INFO]-[2019/01/31 00:46:05] Total 9700 files processed
+[INFO]-[2019/01/31 00:46:06] Total 9750 files processed
+[INFO]-[2019/01/31 00:46:06] Total 9750 files processed
+[INFO]-[2019/01/31 00:46:07] Total 9800 files processed
+[INFO]-[2019/01/31 00:46:07] Total 9800 files processed
+[INFO]-[2019/01/31 00:46:09] Total 9850 files processed
+[INFO]-[2019/01/31 00:46:09] Total 9850 files processed
+[INFO]-[2019/01/31 00:46:10] Total 9900 files processed
+[INFO]-[2019/01/31 00:46:10] Total 9900 files processed
+[INFO]-[2019/01/31 00:46:11] Total 9950 files processed
+[INFO]-[2019/01/31 00:46:11] Total 9950 files processed
+[INFO]-[2019/01/31 00:46:12] Total 10000 files processed
+[INFO]-[2019/01/31 00:46:12] Total 10000 files processed
+[INFO]-[2019/01/31 00:46:13] Total 10050 files processed
+[INFO]-[2019/01/31 00:46:13] Total 10050 files processed
+[INFO]-[2019/01/31 00:46:14] Total 10100 files processed
+[INFO]-[2019/01/31 00:46:14] Total 10100 files processed
+[INFO]-[2019/01/31 00:46:15] Total 10150 files processed
+[INFO]-[2019/01/31 00:46:15] Total 10150 files processed
+[INFO]-[2019/01/31 00:46:16] Total 10200 files processed
+[INFO]-[2019/01/31 00:46:16] Total 10200 files processed
+[INFO]-[2019/01/31 00:46:17] Total 10250 files processed
+[INFO]-[2019/01/31 00:46:17] Total 10250 files processed
+[INFO]-[2019/01/31 00:46:18] Total 10300 files processed
+[INFO]-[2019/01/31 00:46:18] Total 10300 files processed
+[INFO]-[2019/01/31 00:46:19] Total 10350 files processed
+[INFO]-[2019/01/31 00:46:19] Total 10350 files processed
+[INFO]-[2019/01/31 00:46:20] Total 10400 files processed
+[INFO]-[2019/01/31 00:46:20] Total 10400 files processed
+[INFO]-[2019/01/31 00:46:21] Total 10450 files processed
+[INFO]-[2019/01/31 00:46:21] Total 10450 files processed
+[INFO]-[2019/01/31 00:46:22] Total 10500 files processed
+[INFO]-[2019/01/31 00:46:22] Total 10500 files processed
+[INFO]-[2019/01/31 00:46:23] Total 10550 files processed
+[INFO]-[2019/01/31 00:46:23] Total 10550 files processed
+[INFO]-[2019/01/31 00:46:24] Total 10600 files processed
+[INFO]-[2019/01/31 00:46:24] Total 10600 files processed
+[INFO]-[2019/01/31 00:46:25] Total 10650 files processed
+[INFO]-[2019/01/31 00:46:25] Total 10650 files processed
+[INFO]-[2019/01/31 00:46:26] Total 10700 files processed
+[INFO]-[2019/01/31 00:46:26] Total 10700 files processed
+[INFO]-[2019/01/31 00:46:28] Total 10750 files processed
+[INFO]-[2019/01/31 00:46:28] Total 10750 files processed
+[INFO]-[2019/01/31 00:46:29] Total 10800 files processed
+[INFO]-[2019/01/31 00:46:29] Total 10800 files processed
+[INFO]-[2019/01/31 00:46:30] Total 10850 files processed
+[INFO]-[2019/01/31 00:46:30] Total 10850 files processed
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1444_Green_Watt_Power_0857e59f0215-plugins.zip.tmp
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1542_Green_Watt_Power_7cd8dd7abe7d-uploads.zip
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1542_Green_Watt_Power_7cd8dd7abe7d-themes.zip
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1542_Green_Watt_Power_7cd8dd7abe7d-plugins.zip
+[INFO]-[2019/01/31 00:46:31] Total 10900 files processed
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1444_Green_Watt_Power_0857e59f0215-plugins.zip.tmp
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1542_Green_Watt_Power_7cd8dd7abe7d-uploads.zip
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1542_Green_Watt_Power_7cd8dd7abe7d-themes.zip
+[INFO]-[2019/01/31 00:46:31] Skipping big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/updraft/backup_2019-01-30-1542_Green_Watt_Power_7cd8dd7abe7d-plugins.zip
+[INFO]-[2019/01/31 00:46:31] Total 10900 files processed
+[INFO]-[2019/01/31 00:46:32] Total 10950 files processed
+[INFO]-[2019/01/31 00:46:32] Total 10950 files processed
+[INFO]-[2019/01/31 00:46:33] Total 11000 files processed
+[INFO]-[2019/01/31 00:46:33] Total 11000 files processed
+[INFO]-[2019/01/31 00:46:34] Total 11050 files processed
+[INFO]-[2019/01/31 00:46:34] Total 11050 files processed
+[INFO]-[2019/01/31 00:46:35] Total 11100 files processed
+[INFO]-[2019/01/31 00:46:35] Total 11100 files processed
+[INFO]-[2019/01/31 00:46:36] Total 11150 files processed
+[INFO]-[2019/01/31 00:46:36] Total 11150 files processed
+[INFO]-[2019/01/31 00:46:37] Total 11200 files processed
+[INFO]-[2019/01/31 00:46:37] Total 11200 files processed
+[INFO]-[2019/01/31 00:46:38] Total 11250 files processed
+[INFO]-[2019/01/31 00:46:38] Total 11250 files processed
+[INFO]-[2019/01/31 00:46:39] Total 11300 files processed
+[INFO]-[2019/01/31 00:46:39] Total 11300 files processed
+[INFO]-[2019/01/31 00:46:40] Total 11350 files processed
+[INFO]-[2019/01/31 00:46:40] Total 11350 files processed
+[INFO]-[2019/01/31 00:46:41] Total 11400 files processed
+[INFO]-[2019/01/31 00:46:41] Total 11400 files processed
+[INFO]-[2019/01/31 00:46:42] Total 11450 files processed
+[INFO]-[2019/01/31 00:46:42] Total 11450 files processed
+[INFO]-[2019/01/31 00:46:44] Total 11500 files processed
+[INFO]-[2019/01/31 00:46:44] Total 11500 files processed
+[INFO]-[2019/01/31 00:46:46] Total 11550 files processed
+[INFO]-[2019/01/31 00:46:46] Total 11550 files processed
+[INFO]-[2019/01/31 00:46:47] Total 11600 files processed
+[INFO]-[2019/01/31 00:46:47] Total 11600 files processed
+[INFO]-[2019/01/31 00:46:48] Total 11650 files processed
+[INFO]-[2019/01/31 00:46:48] Total 11650 files processed
+[INFO]-[2019/01/31 00:46:49] Total 11700 files processed
+[INFO]-[2019/01/31 00:46:49] Total 11700 files processed
+[INFO]-[2019/01/31 00:46:50] Total 11750 files processed
+[INFO]-[2019/01/31 00:46:50] Total 11750 files processed
+[INFO]-[2019/01/31 00:46:51] Total 11800 files processed
+[INFO]-[2019/01/31 00:46:51] Total 11800 files processed
+[INFO]-[2019/01/31 00:46:52] Total 11850 files processed
+[INFO]-[2019/01/31 00:46:52] Total 11850 files processed
+[INFO]-[2019/01/31 00:46:53] Total 11900 files processed
+[INFO]-[2019/01/31 00:46:53] Total 11900 files processed
+[INFO]-[2019/01/31 00:46:54] Total 11950 files processed
+[INFO]-[2019/01/31 00:46:54] Total 11950 files processed
+[INFO]-[2019/01/31 00:46:55] Total 12000 files processed
+[INFO]-[2019/01/31 00:46:55] Total 12000 files processed
+[INFO]-[2019/01/31 00:46:56] Total 12050 files processed
+[INFO]-[2019/01/31 00:46:56] Total 12050 files processed
+[INFO]-[2019/01/31 00:46:57] Total 12100 files processed
+[INFO]-[2019/01/31 00:46:57] Total 12100 files processed
+[INFO]-[2019/01/31 00:46:58] Total 12150 files processed
+[INFO]-[2019/01/31 00:46:58] Total 12150 files processed
+[INFO]-[2019/01/31 00:47:00] Total 12200 files processed
+[INFO]-[2019/01/31 00:47:00] Total 12200 files processed
+[INFO]-[2019/01/31 00:47:01] Total 12250 files processed
+[INFO]-[2019/01/31 00:47:01] Total 12250 files processed
+[INFO]-[2019/01/31 00:47:02] Total 12300 files processed
+[INFO]-[2019/01/31 00:47:02] Total 12300 files processed
+[INFO]-[2019/01/31 00:47:03] Total 12350 files processed
+[INFO]-[2019/01/31 00:47:03] Total 12350 files processed
+[WARNING]-[2019/01/31 00:47:04] File doesn't exist /home/content/p3pnexwpnas10_data01/75/42146275/html/
+[WARNING]-[2019/01/31 00:47:04] File doesn't exist /home/content/p3pnexwpnas10_data01/75/42146275/html/
+[INFO]-[2019/01/31 00:47:04] Copying files finished
+[INFO]-[2019/01/31 00:47:04] Copying files finished
+[INFO]-[2019/01/31 00:47:05] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2019/01/31 00:47:05] Preparing Data Step0: Skip it
+[INFO]-[2019/01/31 00:47:05] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2019/01/31 00:47:05] Preparing Data Step0: Skip it
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step1: Updating siteurl and homeurl to http://greenwattpower.com/gwpdev
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step1: Updating siteurl and homeurl to http://greenwattpower.com/gwpdev
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step2: Successfull
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/01/31 00:47:06] Preparing Data Step2: Successfull
+[INFO]-[2019/01/31 00:47:07] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/01/31 00:47:07] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/01/31 00:47:08] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/01/31 00:47:08] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/01/31 00:47:10] Preparing Data Step5: Updating table_prefix in /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-config.php to wpstg0_
+[INFO]-[2019/01/31 00:47:10] Preparing Data Step5: Updating table_prefix in /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:47:11] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/01/31 00:47:11] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/01/31 00:47:11] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/01/31 00:47:11] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/01/31 00:47:12] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/01/31 00:47:12] Preparing Data Step8: Finished successfully
+[INFO]-[2019/01/31 00:47:12] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/01/31 00:47:12] Preparing Data Step8: Finished successfully
+[INFO]-[2019/01/31 00:47:13] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/01/31 00:47:13] Preparing Data Step9: Finished successfully
+[INFO]-[2019/01/31 00:47:13] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/01/31 00:47:13] Preparing Data Step9: Finished successfully
+[INFO]-[2019/01/31 00:47:15] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/01/31 00:47:15] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:15] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/01/31 00:47:15] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/01/31 00:47:15] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:15] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/01/31 00:47:16] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/01/31 00:47:16] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:16] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/01/31 00:47:16] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/01/31 00:47:16] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:16] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step13: Skipped
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/01/31 00:47:17] Preparing Data Step13: Skipped
+[INFO]-[2019/01/31 00:47:19] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/01/31 00:47:19] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:19] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/01/31 00:47:19] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/01/31 00:47:19] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:19] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/01/31 00:47:20] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/01/31 00:47:20] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:20] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/01/31 00:47:20] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/01/31 00:47:20] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:20] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/01/31 00:47:21] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/01/31 00:47:21] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:21] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/01/31 00:47:21] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/01/31 00:47:21] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 00:47:21] Preparing Data Step 16: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 00:47:22] Finish: Deleting clone job's cache files...
+[INFO]-[2019/01/31 00:47:22] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/01/31 00:47:22] Finish: Verifying existing clones...
+[INFO]-[2019/01/31 00:47:22] Finish: gwpdev's clone job's data is not in database, generating data
+[INFO]-[2019/01/31 00:47:22] Finish: Deleting clone job's cache files...
+[INFO]-[2019/01/31 00:47:22] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/01/31 00:47:22] Finish: Verifying existing clones...
+[INFO]-[2019/01/31 00:47:22] Finish: gwpdev's clone job's data is not in database, generating data
+[INFO]-[2019/02/06 17:21:33] DB Copy: wpstg0_5b006zr5x7_commentmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:33] DB Copy: Creating table wpstg0_5b006zr5x7_commentmeta
+[INFO]-[2019/02/06 17:21:33] DB Copy: wpstg0_5b006zr5x7_commentmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:33] DB Copy: Creating table wpstg0_5b006zr5x7_commentmeta
+[INFO]-[2019/02/06 17:21:34] DB Copy: wpstg0_5b006zr5x7_comments already exists, dropping it first
+[INFO]-[2019/02/06 17:21:34] DB Copy: Creating table wpstg0_5b006zr5x7_comments
+[INFO]-[2019/02/06 17:21:34] DB Copy: wp_5b006zr5x7_comments as wpstg0_5b006zr5x7_comments from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:34] DB Copy: wpstg0_5b006zr5x7_comments already exists, dropping it first
+[INFO]-[2019/02/06 17:21:34] DB Copy: Creating table wpstg0_5b006zr5x7_comments
+[INFO]-[2019/02/06 17:21:34] DB Copy: wp_5b006zr5x7_comments as wpstg0_5b006zr5x7_comments from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:35] DB Copy: wpstg0_5b006zr5x7_links already exists, dropping it first
+[INFO]-[2019/02/06 17:21:35] DB Copy: Creating table wpstg0_5b006zr5x7_links
+[INFO]-[2019/02/06 17:21:35] DB Copy: wpstg0_5b006zr5x7_links already exists, dropping it first
+[INFO]-[2019/02/06 17:21:35] DB Copy: Creating table wpstg0_5b006zr5x7_links
+[INFO]-[2019/02/06 17:21:36] DB Copy: wpstg0_5b006zr5x7_options already exists, dropping it first
+[INFO]-[2019/02/06 17:21:36] DB Copy: Creating table wpstg0_5b006zr5x7_options
+[INFO]-[2019/02/06 17:21:36] DB Copy: wp_5b006zr5x7_options as wpstg0_5b006zr5x7_options from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:36] DB Copy: wpstg0_5b006zr5x7_options already exists, dropping it first
+[INFO]-[2019/02/06 17:21:36] DB Copy: Creating table wpstg0_5b006zr5x7_options
+[INFO]-[2019/02/06 17:21:36] DB Copy: wp_5b006zr5x7_options as wpstg0_5b006zr5x7_options from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:37] DB Copy: wpstg0_5b006zr5x7_postmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:37] DB Copy: Creating table wpstg0_5b006zr5x7_postmeta
+[INFO]-[2019/02/06 17:21:37] DB Copy: wp_5b006zr5x7_postmeta as wpstg0_5b006zr5x7_postmeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:37] DB Copy: wpstg0_5b006zr5x7_postmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:37] DB Copy: Creating table wpstg0_5b006zr5x7_postmeta
+[INFO]-[2019/02/06 17:21:37] DB Copy: wp_5b006zr5x7_postmeta as wpstg0_5b006zr5x7_postmeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:37] DB Copy: wpstg0_5b006zr5x7_posts already exists, dropping it first
+[INFO]-[2019/02/06 17:21:37] DB Copy: Creating table wpstg0_5b006zr5x7_posts
+[INFO]-[2019/02/06 17:21:37] DB Copy: wp_5b006zr5x7_posts as wpstg0_5b006zr5x7_posts from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:37] DB Copy: wpstg0_5b006zr5x7_posts already exists, dropping it first
+[INFO]-[2019/02/06 17:21:37] DB Copy: Creating table wpstg0_5b006zr5x7_posts
+[INFO]-[2019/02/06 17:21:37] DB Copy: wp_5b006zr5x7_posts as wpstg0_5b006zr5x7_posts from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:37] DB Copy: wpstg0_5b006zr5x7_term_relationships already exists, dropping it first
+[INFO]-[2019/02/06 17:21:37] DB Copy: Creating table wpstg0_5b006zr5x7_term_relationships
+[INFO]-[2019/02/06 17:21:37] DB Copy: wp_5b006zr5x7_term_relationships as wpstg0_5b006zr5x7_term_relationships from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:37] DB Copy: wpstg0_5b006zr5x7_term_relationships already exists, dropping it first
+[INFO]-[2019/02/06 17:21:37] DB Copy: Creating table wpstg0_5b006zr5x7_term_relationships
+[INFO]-[2019/02/06 17:21:37] DB Copy: wp_5b006zr5x7_term_relationships as wpstg0_5b006zr5x7_term_relationships from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:38] DB Copy: wpstg0_5b006zr5x7_term_taxonomy already exists, dropping it first
+[INFO]-[2019/02/06 17:21:38] DB Copy: Creating table wpstg0_5b006zr5x7_term_taxonomy
+[INFO]-[2019/02/06 17:21:38] DB Copy: wp_5b006zr5x7_term_taxonomy as wpstg0_5b006zr5x7_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:38] DB Copy: wpstg0_5b006zr5x7_term_taxonomy already exists, dropping it first
+[INFO]-[2019/02/06 17:21:38] DB Copy: Creating table wpstg0_5b006zr5x7_term_taxonomy
+[INFO]-[2019/02/06 17:21:38] DB Copy: wp_5b006zr5x7_term_taxonomy as wpstg0_5b006zr5x7_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:39] DB Copy: wpstg0_5b006zr5x7_termmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:39] DB Copy: Creating table wpstg0_5b006zr5x7_termmeta
+[INFO]-[2019/02/06 17:21:39] DB Copy: wpstg0_5b006zr5x7_termmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:39] DB Copy: Creating table wpstg0_5b006zr5x7_termmeta
+[INFO]-[2019/02/06 17:21:40] DB Copy: wpstg0_5b006zr5x7_terms already exists, dropping it first
+[INFO]-[2019/02/06 17:21:40] DB Copy: Creating table wpstg0_5b006zr5x7_terms
+[INFO]-[2019/02/06 17:21:40] DB Copy: wp_5b006zr5x7_terms as wpstg0_5b006zr5x7_terms from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:40] DB Copy: wpstg0_5b006zr5x7_terms already exists, dropping it first
+[INFO]-[2019/02/06 17:21:40] DB Copy: Creating table wpstg0_5b006zr5x7_terms
+[INFO]-[2019/02/06 17:21:40] DB Copy: wp_5b006zr5x7_terms as wpstg0_5b006zr5x7_terms from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:41] DB Copy: wpstg0_5b006zr5x7_usermeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:41] DB Copy: Creating table wpstg0_5b006zr5x7_usermeta
+[INFO]-[2019/02/06 17:21:41] DB Copy: wp_5b006zr5x7_usermeta as wpstg0_5b006zr5x7_usermeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:41] DB Copy: wpstg0_5b006zr5x7_usermeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:41] DB Copy: Creating table wpstg0_5b006zr5x7_usermeta
+[INFO]-[2019/02/06 17:21:41] DB Copy: wp_5b006zr5x7_usermeta as wpstg0_5b006zr5x7_usermeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:42] DB Copy: wpstg0_5b006zr5x7_users already exists, dropping it first
+[INFO]-[2019/02/06 17:21:42] DB Copy: Creating table wpstg0_5b006zr5x7_users
+[INFO]-[2019/02/06 17:21:42] DB Copy: wp_5b006zr5x7_users as wpstg0_5b006zr5x7_users from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:42] DB Copy: wpstg0_5b006zr5x7_users already exists, dropping it first
+[INFO]-[2019/02/06 17:21:42] DB Copy: Creating table wpstg0_5b006zr5x7_users
+[INFO]-[2019/02/06 17:21:42] DB Copy: wp_5b006zr5x7_users as wpstg0_5b006zr5x7_users from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:43] DB Copy: wpstg0_commentmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:43] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/02/06 17:21:43] DB Copy: wpstg0_commentmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:43] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/02/06 17:21:44] DB Copy: wpstg0_comments already exists, dropping it first
+[INFO]-[2019/02/06 17:21:44] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/02/06 17:21:44] DB Copy: wpstg0_comments already exists, dropping it first
+[INFO]-[2019/02/06 17:21:44] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/02/06 17:21:45] DB Copy: wpstg0_links already exists, dropping it first
+[INFO]-[2019/02/06 17:21:45] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/02/06 17:21:45] DB Copy: wpstg0_links already exists, dropping it first
+[INFO]-[2019/02/06 17:21:45] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/02/06 17:21:46] DB Copy: wpstg0_maxbuttons_collections already exists, dropping it first
+[INFO]-[2019/02/06 17:21:46] DB Copy: Creating table wpstg0_maxbuttons_collections
+[INFO]-[2019/02/06 17:21:46] DB Copy: wpstg0_maxbuttons_collections already exists, dropping it first
+[INFO]-[2019/02/06 17:21:46] DB Copy: Creating table wpstg0_maxbuttons_collections
+[INFO]-[2019/02/06 17:21:47] DB Copy: wpstg0_maxbuttons_collections_trans already exists, dropping it first
+[INFO]-[2019/02/06 17:21:47] DB Copy: Creating table wpstg0_maxbuttons_collections_trans
+[INFO]-[2019/02/06 17:21:47] DB Copy: wpstg0_maxbuttons_collections_trans already exists, dropping it first
+[INFO]-[2019/02/06 17:21:47] DB Copy: Creating table wpstg0_maxbuttons_collections_trans
+[INFO]-[2019/02/06 17:21:48] DB Copy: wpstg0_maxbuttonsv3 already exists, dropping it first
+[INFO]-[2019/02/06 17:21:48] DB Copy: Creating table wpstg0_maxbuttonsv3
+[INFO]-[2019/02/06 17:21:48] DB Copy: wp_maxbuttonsv3 as wpstg0_maxbuttonsv3 from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:48] DB Copy: wpstg0_maxbuttonsv3 already exists, dropping it first
+[INFO]-[2019/02/06 17:21:48] DB Copy: Creating table wpstg0_maxbuttonsv3
+[INFO]-[2019/02/06 17:21:48] DB Copy: wp_maxbuttonsv3 as wpstg0_maxbuttonsv3 from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:49] DB Copy: wpstg0_options already exists, dropping it first
+[INFO]-[2019/02/06 17:21:49] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/02/06 17:21:49] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:49] DB Copy: wpstg0_options already exists, dropping it first
+[INFO]-[2019/02/06 17:21:49] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/02/06 17:21:49] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:50] DB Copy: wpstg0_postmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:50] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/02/06 17:21:50] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:50] DB Copy: wpstg0_postmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:50] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/02/06 17:21:50] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:52] DB Copy: wpstg0_posts already exists, dropping it first
+[INFO]-[2019/02/06 17:21:52] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/02/06 17:21:52] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:52] DB Copy: wpstg0_posts already exists, dropping it first
+[INFO]-[2019/02/06 17:21:52] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/02/06 17:21:52] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:53] DB Copy: wpstg0_term_relationships already exists, dropping it first
+[INFO]-[2019/02/06 17:21:53] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/02/06 17:21:53] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:53] DB Copy: wpstg0_term_relationships already exists, dropping it first
+[INFO]-[2019/02/06 17:21:53] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/02/06 17:21:53] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:54] DB Copy: wpstg0_term_taxonomy already exists, dropping it first
+[INFO]-[2019/02/06 17:21:54] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/02/06 17:21:54] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:54] DB Copy: wpstg0_term_taxonomy already exists, dropping it first
+[INFO]-[2019/02/06 17:21:54] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/02/06 17:21:54] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:55] DB Copy: wpstg0_termmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:55] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/02/06 17:21:55] DB Copy: wpstg0_termmeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:55] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/02/06 17:21:56] DB Copy: wpstg0_terms already exists, dropping it first
+[INFO]-[2019/02/06 17:21:56] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/02/06 17:21:56] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:56] DB Copy: wpstg0_terms already exists, dropping it first
+[INFO]-[2019/02/06 17:21:56] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/02/06 17:21:56] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:57] DB Copy: wpstg0_usermeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:57] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/02/06 17:21:57] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:57] DB Copy: wpstg0_usermeta already exists, dropping it first
+[INFO]-[2019/02/06 17:21:57] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/02/06 17:21:57] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:58] DB Copy: wpstg0_users already exists, dropping it first
+[INFO]-[2019/02/06 17:21:58] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/02/06 17:21:58] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:58] DB Copy: wpstg0_users already exists, dropping it first
+[INFO]-[2019/02/06 17:21:58] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/02/06 17:21:58] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/02/06 17:21:59] DB Copy: wpstg0_wpdatacharts already exists, dropping it first
+[INFO]-[2019/02/06 17:21:59] DB Copy: Creating table wpstg0_wpdatacharts
+[INFO]-[2019/02/06 17:21:59] DB Copy: wpstg0_wpdatacharts already exists, dropping it first
+[INFO]-[2019/02/06 17:21:59] DB Copy: Creating table wpstg0_wpdatacharts
+[INFO]-[2019/02/06 17:22:00] DB Copy: wpstg0_wpdatatables already exists, dropping it first
+[INFO]-[2019/02/06 17:22:00] DB Copy: Creating table wpstg0_wpdatatables
+[INFO]-[2019/02/06 17:22:00] DB Copy: wp_wpdatatables as wpstg0_wpdatatables from 0 to 10000 records
+[INFO]-[2019/02/06 17:22:00] DB Copy: wpstg0_wpdatatables already exists, dropping it first
+[INFO]-[2019/02/06 17:22:00] DB Copy: Creating table wpstg0_wpdatatables
+[INFO]-[2019/02/06 17:22:00] DB Copy: wp_wpdatatables as wpstg0_wpdatatables from 0 to 10000 records
+[INFO]-[2019/02/06 17:22:01] DB Copy: wpstg0_wpdatatables_columns already exists, dropping it first
+[INFO]-[2019/02/06 17:22:01] DB Copy: Creating table wpstg0_wpdatatables_columns
+[INFO]-[2019/02/06 17:22:01] DB Copy: wp_wpdatatables_columns as wpstg0_wpdatatables_columns from 0 to 10000 records
+[INFO]-[2019/02/06 17:22:01] DB Copy: wpstg0_wpdatatables_columns already exists, dropping it first
+[INFO]-[2019/02/06 17:22:01] DB Copy: Creating table wpstg0_wpdatatables_columns
+[INFO]-[2019/02/06 17:22:01] DB Copy: wp_wpdatatables_columns as wpstg0_wpdatatables_columns from 0 to 10000 records
+[INFO]-[2019/02/06 17:22:02] DB Copy: wpstg0_yoast_seo_links already exists, dropping it first
+[INFO]-[2019/02/06 17:22:02] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/02/06 17:22:02] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/02/06 17:22:02] DB Copy: wpstg0_yoast_seo_links already exists, dropping it first
+[INFO]-[2019/02/06 17:22:02] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/02/06 17:22:02] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/02/06 17:22:03] DB Copy: wpstg0_yoast_seo_meta already exists, dropping it first
+[INFO]-[2019/02/06 17:22:03] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/02/06 17:22:03] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/02/06 17:22:03] DB Copy: wpstg0_yoast_seo_meta already exists, dropping it first
+[INFO]-[2019/02/06 17:22:03] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/02/06 17:22:03] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:22:06] DB Processing:  Table wpstg0_5b006zr5x7_comments 0 to 5000 records
+[INFO]-[2019/02/06 17:22:06] DB Processing:  Table wpstg0_5b006zr5x7_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:22:08] DB Processing:  Table wpstg0_5b006zr5x7_options 0 to 5000 records
+[INFO]-[2019/02/06 17:22:08] DB Processing:  Table wpstg0_5b006zr5x7_options 0 to 5000 records
+[INFO]-[2019/02/06 17:22:09] DB Processing:  Table wpstg0_5b006zr5x7_postmeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:09] DB Processing:  Table wpstg0_5b006zr5x7_postmeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:10] DB Processing:  Table wpstg0_5b006zr5x7_posts 0 to 5000 records
+[INFO]-[2019/02/06 17:22:10] DB Processing:  Table wpstg0_5b006zr5x7_posts 0 to 5000 records
+[INFO]-[2019/02/06 17:22:11] DB Processing:  Table wpstg0_5b006zr5x7_term_relationships 0 to 5000 records
+[INFO]-[2019/02/06 17:22:11] DB Processing:  Table wpstg0_5b006zr5x7_term_relationships 0 to 5000 records
+[INFO]-[2019/02/06 17:22:12] DB Processing:  Table wpstg0_5b006zr5x7_term_taxonomy 0 to 5000 records
+[INFO]-[2019/02/06 17:22:12] DB Processing:  Table wpstg0_5b006zr5x7_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:22:14] DB Processing:  Table wpstg0_5b006zr5x7_terms 0 to 5000 records
+[INFO]-[2019/02/06 17:22:14] DB Processing:  Table wpstg0_5b006zr5x7_terms 0 to 5000 records
+[INFO]-[2019/02/06 17:22:15] DB Processing:  Table wpstg0_5b006zr5x7_usermeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:15] DB Processing:  Table wpstg0_5b006zr5x7_usermeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:15] DB Processing:  Table wpstg0_5b006zr5x7_users 0 to 5000 records
+[INFO]-[2019/02/06 17:22:15] DB Processing:  Table wpstg0_5b006zr5x7_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:22:18] DB Processing:  Table wpstg0_maxbuttonsv3 0 to 5000 records
+[INFO]-[2019/02/06 17:22:18] DB Processing:  Table wpstg0_maxbuttonsv3 0 to 5000 records
+[INFO]-[2019/02/06 17:22:19] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/02/06 17:22:19] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/02/06 17:22:20] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:20] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:22] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/02/06 17:22:22] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/02/06 17:22:32] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/02/06 17:22:32] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/02/06 17:22:33] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/02/06 17:22:33] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:22:35] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/02/06 17:22:35] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/02/06 17:22:36] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:36] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:37] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/02/06 17:22:37] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:22:39] DB Processing:  Table wpstg0_wpdatatables 0 to 5000 records
+[INFO]-[2019/02/06 17:22:39] DB Processing:  Table wpstg0_wpdatatables 0 to 5000 records
+[INFO]-[2019/02/06 17:22:40] DB Processing:  Table wpstg0_wpdatatables_columns 0 to 5000 records
+[INFO]-[2019/02/06 17:22:40] DB Processing:  Table wpstg0_wpdatatables_columns 0 to 5000 records
+[INFO]-[2019/02/06 17:22:41] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/02/06 17:22:41] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/02/06 17:22:44] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/02/06 17:22:44] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:22:46] Scanning / for files
+[INFO]-[2019/02/06 17:22:46] Scanning / for files
+[INFO]-[2019/02/06 17:22:47] Scanning wp-content folder /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content
+[INFO]-[2019/02/06 17:22:47] Scanning wp-content folder /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content
+[INFO]-[2019/02/06 17:22:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/02/06 17:22:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/02/06 17:22:53] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/02/06 17:22:53] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/02/06 17:22:55] Copying files...
+[INFO]-[2019/02/06 17:22:55] Total 50 files processed
+[INFO]-[2019/02/06 17:22:55] Copying files...
+[INFO]-[2019/02/06 17:22:55] Total 50 files processed
+[INFO]-[2019/02/06 17:22:57] Total 100 files processed
+[INFO]-[2019/02/06 17:22:57] Total 100 files processed
+[INFO]-[2019/02/06 17:22:59] Total 150 files processed
+[INFO]-[2019/02/06 17:22:59] Total 150 files processed
+[INFO]-[2019/02/06 17:23:00] Total 200 files processed
+[INFO]-[2019/02/06 17:23:00] Total 200 files processed
+[INFO]-[2019/02/06 17:23:03] Total 250 files processed
+[INFO]-[2019/02/06 17:23:03] Total 250 files processed
+[INFO]-[2019/02/06 17:23:04] Total 300 files processed
+[INFO]-[2019/02/06 17:23:04] Total 300 files processed
+[INFO]-[2019/02/06 17:23:05] Total 350 files processed
+[INFO]-[2019/02/06 17:23:05] Total 350 files processed
+[INFO]-[2019/02/06 17:23:06] Total 400 files processed
+[INFO]-[2019/02/06 17:23:06] Total 400 files processed
+[INFO]-[2019/02/06 17:23:07] Total 450 files processed
+[INFO]-[2019/02/06 17:23:07] Total 450 files processed
+[INFO]-[2019/02/06 17:23:08] Total 500 files processed
+[INFO]-[2019/02/06 17:23:08] Total 500 files processed
+[INFO]-[2019/02/06 17:23:10] Total 550 files processed
+[INFO]-[2019/02/06 17:23:10] Total 550 files processed
+[INFO]-[2019/02/06 17:23:12] Total 600 files processed
+[INFO]-[2019/02/06 17:23:12] Total 600 files processed
+[INFO]-[2019/02/06 17:23:14] Total 650 files processed
+[INFO]-[2019/02/06 17:23:14] Total 650 files processed
+[INFO]-[2019/02/06 17:23:15] Total 700 files processed
+[INFO]-[2019/02/06 17:23:15] Total 700 files processed
+[INFO]-[2019/02/06 17:23:16] Total 750 files processed
+[INFO]-[2019/02/06 17:23:16] Total 750 files processed
+[INFO]-[2019/02/06 17:23:18] Total 800 files processed
+[INFO]-[2019/02/06 17:23:18] Total 800 files processed
+[INFO]-[2019/02/06 17:23:20] Total 850 files processed
+[INFO]-[2019/02/06 17:23:20] Total 850 files processed
+[INFO]-[2019/02/06 17:23:22] Total 900 files processed
+[INFO]-[2019/02/06 17:23:22] Total 900 files processed
+[INFO]-[2019/02/06 17:23:23] Total 950 files processed
+[INFO]-[2019/02/06 17:23:23] Total 950 files processed
+[INFO]-[2019/02/06 17:23:24] Total 1000 files processed
+[INFO]-[2019/02/06 17:23:24] Total 1000 files processed
+[INFO]-[2019/02/06 17:23:25] Total 1050 files processed
+[INFO]-[2019/02/06 17:23:25] Total 1050 files processed
+[INFO]-[2019/02/06 17:23:27] Total 1100 files processed
+[INFO]-[2019/02/06 17:23:27] Total 1100 files processed
+[INFO]-[2019/02/06 17:23:28] Total 1150 files processed
+[INFO]-[2019/02/06 17:23:28] Total 1150 files processed
+[INFO]-[2019/02/06 17:23:29] Total 1200 files processed
+[INFO]-[2019/02/06 17:23:29] Total 1200 files processed
+[INFO]-[2019/02/06 17:23:31] Total 1250 files processed
+[INFO]-[2019/02/06 17:23:31] Total 1250 files processed
+[INFO]-[2019/02/06 17:23:32] Total 1300 files processed
+[INFO]-[2019/02/06 17:23:32] Total 1300 files processed
+[INFO]-[2019/02/06 17:23:34] Total 1350 files processed
+[INFO]-[2019/02/06 17:23:34] Total 1350 files processed
+[INFO]-[2019/02/06 17:23:35] Total 1400 files processed
+[INFO]-[2019/02/06 17:23:35] Total 1400 files processed
+[INFO]-[2019/02/06 17:23:37] Total 1450 files processed
+[INFO]-[2019/02/06 17:23:37] Total 1450 files processed
+[INFO]-[2019/02/06 17:23:39] Total 1500 files processed
+[INFO]-[2019/02/06 17:23:39] Total 1500 files processed
+[INFO]-[2019/02/06 17:23:40] Total 1550 files processed
+[INFO]-[2019/02/06 17:23:40] Total 1550 files processed
+[INFO]-[2019/02/06 17:23:41] Total 1600 files processed
+[INFO]-[2019/02/06 17:23:41] Total 1600 files processed
+[INFO]-[2019/02/06 17:23:43] Total 1650 files processed
+[INFO]-[2019/02/06 17:23:43] Total 1650 files processed
+[INFO]-[2019/02/06 17:23:45] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js
+[INFO]-[2019/02/06 17:23:48] Total 1700 files processed
+[INFO]-[2019/02/06 17:23:45] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-910.min.js
+[INFO]-[2019/02/06 17:23:48] Total 1700 files processed
+[INFO]-[2019/02/06 17:23:50] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js
+[INFO]-[2019/02/06 17:23:50] Total 1750 files processed
+[INFO]-[2019/02/06 17:23:50] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/wordpress-seo/js/dist/analysis-910.min.js
+[INFO]-[2019/02/06 17:23:50] Total 1750 files processed
+[INFO]-[2019/02/06 17:23:51] Total 1800 files processed
+[INFO]-[2019/02/06 17:23:51] Total 1800 files processed
+[INFO]-[2019/02/06 17:23:53] Total 1850 files processed
+[INFO]-[2019/02/06 17:23:53] Total 1850 files processed
+[INFO]-[2019/02/06 17:23:55] Total 1900 files processed
+[INFO]-[2019/02/06 17:23:55] Total 1900 files processed
+[INFO]-[2019/02/06 17:23:56] Total 1950 files processed
+[INFO]-[2019/02/06 17:23:56] Total 1950 files processed
+[INFO]-[2019/02/06 17:23:57] Total 2000 files processed
+[INFO]-[2019/02/06 17:23:57] Total 2000 files processed
+[INFO]-[2019/02/06 17:23:58] Total 2050 files processed
+[INFO]-[2019/02/06 17:23:58] Total 2050 files processed
+[INFO]-[2019/02/06 17:24:00] Total 2100 files processed
+[INFO]-[2019/02/06 17:24:00] Total 2100 files processed
+[INFO]-[2019/02/06 17:24:02] Total 2150 files processed
+[INFO]-[2019/02/06 17:24:02] Total 2150 files processed
+[INFO]-[2019/02/06 17:24:03] Total 2200 files processed
+[INFO]-[2019/02/06 17:24:03] Total 2200 files processed
+[INFO]-[2019/02/06 17:24:04] Total 2250 files processed
+[INFO]-[2019/02/06 17:24:04] Total 2250 files processed
+[INFO]-[2019/02/06 17:24:05] Total 2300 files processed
+[INFO]-[2019/02/06 17:24:05] Total 2300 files processed
+[INFO]-[2019/02/06 17:24:07] Total 2350 files processed
+[INFO]-[2019/02/06 17:24:07] Total 2350 files processed
+[INFO]-[2019/02/06 17:24:09] Total 2400 files processed
+[INFO]-[2019/02/06 17:24:09] Total 2400 files processed
+[INFO]-[2019/02/06 17:24:11] Total 2450 files processed
+[INFO]-[2019/02/06 17:24:11] Total 2450 files processed
+[INFO]-[2019/02/06 17:24:12] Total 2500 files processed
+[INFO]-[2019/02/06 17:24:12] Total 2500 files processed
+[INFO]-[2019/02/06 17:24:14] Total 2550 files processed
+[INFO]-[2019/02/06 17:24:14] Total 2550 files processed
+[INFO]-[2019/02/06 17:24:15] Total 2600 files processed
+[INFO]-[2019/02/06 17:24:15] Total 2600 files processed
+[INFO]-[2019/02/06 17:24:17] Total 2650 files processed
+[INFO]-[2019/02/06 17:24:17] Total 2650 files processed
+[INFO]-[2019/02/06 17:24:18] Total 2700 files processed
+[INFO]-[2019/02/06 17:24:18] Total 2700 files processed
+[INFO]-[2019/02/06 17:24:19] Total 2750 files processed
+[INFO]-[2019/02/06 17:24:19] Total 2750 files processed
+[INFO]-[2019/02/06 17:24:20] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map
+[INFO]-[2019/02/06 17:24:21] Total 2800 files processed
+[INFO]-[2019/02/06 17:24:20] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/plugins/pdfembedder-premium/js/pdfjs/pdf.worker.js.map
+[INFO]-[2019/02/06 17:24:21] Total 2800 files processed
+[INFO]-[2019/02/06 17:24:22] Total 2850 files processed
+[INFO]-[2019/02/06 17:24:22] Total 2850 files processed
+[INFO]-[2019/02/06 17:24:24] Total 2900 files processed
+[INFO]-[2019/02/06 17:24:24] Total 2900 files processed
+[INFO]-[2019/02/06 17:24:25] Total 2950 files processed
+[INFO]-[2019/02/06 17:24:25] Total 2950 files processed
+[INFO]-[2019/02/06 17:24:27] Total 3000 files processed
+[INFO]-[2019/02/06 17:24:27] Total 3000 files processed
+[INFO]-[2019/02/06 17:24:28] Total 3050 files processed
+[INFO]-[2019/02/06 17:24:28] Total 3050 files processed
+[INFO]-[2019/02/06 17:24:29] Total 3100 files processed
+[INFO]-[2019/02/06 17:24:29] Total 3100 files processed
+[INFO]-[2019/02/06 17:24:30] Total 3150 files processed
+[INFO]-[2019/02/06 17:24:30] Total 3150 files processed
+[INFO]-[2019/02/06 17:24:31] Total 3200 files processed
+[INFO]-[2019/02/06 17:24:31] Total 3200 files processed
+[INFO]-[2019/02/06 17:24:32] Total 3250 files processed
+[INFO]-[2019/02/06 17:24:32] Total 3250 files processed
+[INFO]-[2019/02/06 17:24:33] Total 3300 files processed
+[INFO]-[2019/02/06 17:24:33] Total 3300 files processed
+[INFO]-[2019/02/06 17:24:35] Total 3350 files processed
+[INFO]-[2019/02/06 17:24:35] Total 3350 files processed
+[INFO]-[2019/02/06 17:24:36] Total 3400 files processed
+[INFO]-[2019/02/06 17:24:36] Total 3400 files processed
+[INFO]-[2019/02/06 17:24:37] Total 3450 files processed
+[INFO]-[2019/02/06 17:24:37] Total 3450 files processed
+[INFO]-[2019/02/06 17:24:38] Total 3500 files processed
+[INFO]-[2019/02/06 17:24:38] Total 3500 files processed
+[INFO]-[2019/02/06 17:24:39] Total 3550 files processed
+[INFO]-[2019/02/06 17:24:39] Total 3550 files processed
+[INFO]-[2019/02/06 17:24:40] Total 3600 files processed
+[INFO]-[2019/02/06 17:24:40] Total 3600 files processed
+[INFO]-[2019/02/06 17:24:41] Total 3650 files processed
+[INFO]-[2019/02/06 17:24:41] Total 3650 files processed
+[INFO]-[2019/02/06 17:24:42] Total 3700 files processed
+[INFO]-[2019/02/06 17:24:42] Total 3700 files processed
+[INFO]-[2019/02/06 17:24:44] Total 3750 files processed
+[INFO]-[2019/02/06 17:24:44] Total 3750 files processed
+[INFO]-[2019/02/06 17:24:44] Total 3800 files processed
+[INFO]-[2019/02/06 17:24:44] Total 3800 files processed
+[INFO]-[2019/02/06 17:24:45] Total 3850 files processed
+[INFO]-[2019/02/06 17:24:45] Total 3850 files processed
+[INFO]-[2019/02/06 17:24:46] Total 3900 files processed
+[INFO]-[2019/02/06 17:24:46] Total 3900 files processed
+[INFO]-[2019/02/06 17:24:47] Total 3950 files processed
+[INFO]-[2019/02/06 17:24:47] Total 3950 files processed
+[INFO]-[2019/02/06 17:24:48] Total 4000 files processed
+[INFO]-[2019/02/06 17:24:48] Total 4000 files processed
+[INFO]-[2019/02/06 17:24:49] Total 4050 files processed
+[INFO]-[2019/02/06 17:24:49] Total 4050 files processed
+[INFO]-[2019/02/06 17:24:50] Total 4100 files processed
+[INFO]-[2019/02/06 17:24:50] Total 4100 files processed
+[INFO]-[2019/02/06 17:24:51] Total 4150 files processed
+[INFO]-[2019/02/06 17:24:51] Total 4150 files processed
+[INFO]-[2019/02/06 17:24:52] Total 4200 files processed
+[INFO]-[2019/02/06 17:24:52] Total 4200 files processed
+[INFO]-[2019/02/06 17:24:53] Total 4250 files processed
+[INFO]-[2019/02/06 17:24:53] Total 4250 files processed
+[INFO]-[2019/02/06 17:24:54] Total 4300 files processed
+[INFO]-[2019/02/06 17:24:54] Total 4300 files processed
+[INFO]-[2019/02/06 17:24:55] Total 4350 files processed
+[INFO]-[2019/02/06 17:24:55] Total 4350 files processed
+[INFO]-[2019/02/06 17:24:56] Total 4400 files processed
+[INFO]-[2019/02/06 17:24:56] Total 4400 files processed
+[INFO]-[2019/02/06 17:24:57] Total 4450 files processed
+[INFO]-[2019/02/06 17:24:57] Total 4450 files processed
+[INFO]-[2019/02/06 17:24:58] Total 4500 files processed
+[INFO]-[2019/02/06 17:24:58] Total 4500 files processed
+[INFO]-[2019/02/06 17:24:59] Total 4550 files processed
+[INFO]-[2019/02/06 17:24:59] Total 4550 files processed
+[INFO]-[2019/02/06 17:25:00] Total 4600 files processed
+[INFO]-[2019/02/06 17:25:00] Total 4600 files processed
+[INFO]-[2019/02/06 17:25:01] Total 4650 files processed
+[INFO]-[2019/02/06 17:25:01] Total 4650 files processed
+[INFO]-[2019/02/06 17:25:02] Total 4700 files processed
+[INFO]-[2019/02/06 17:25:02] Total 4700 files processed
+[INFO]-[2019/02/06 17:25:04] Total 4750 files processed
+[INFO]-[2019/02/06 17:25:04] Total 4750 files processed
+[INFO]-[2019/02/06 17:25:05] Total 4800 files processed
+[INFO]-[2019/02/06 17:25:05] Total 4800 files processed
+[INFO]-[2019/02/06 17:25:06] Total 4850 files processed
+[INFO]-[2019/02/06 17:25:06] Total 4850 files processed
+[INFO]-[2019/02/06 17:25:07] Total 4900 files processed
+[INFO]-[2019/02/06 17:25:07] Total 4900 files processed
+[INFO]-[2019/02/06 17:25:08] Total 4950 files processed
+[INFO]-[2019/02/06 17:25:08] Total 4950 files processed
+[INFO]-[2019/02/06 17:25:09] Total 5000 files processed
+[INFO]-[2019/02/06 17:25:09] Total 5000 files processed
+[INFO]-[2019/02/06 17:25:10] Total 5050 files processed
+[INFO]-[2019/02/06 17:25:10] Total 5050 files processed
+[INFO]-[2019/02/06 17:25:11] Total 5100 files processed
+[INFO]-[2019/02/06 17:25:11] Total 5100 files processed
+[INFO]-[2019/02/06 17:25:12] Total 5150 files processed
+[INFO]-[2019/02/06 17:25:12] Total 5150 files processed
+[INFO]-[2019/02/06 17:25:14] Total 5200 files processed
+[INFO]-[2019/02/06 17:25:14] Total 5200 files processed
+[INFO]-[2019/02/06 17:25:15] Total 5250 files processed
+[INFO]-[2019/02/06 17:25:15] Total 5250 files processed
+[INFO]-[2019/02/06 17:25:16] Total 5300 files processed
+[INFO]-[2019/02/06 17:25:16] Total 5300 files processed
+[INFO]-[2019/02/06 17:25:17] Total 5350 files processed
+[INFO]-[2019/02/06 17:25:17] Total 5350 files processed
+[INFO]-[2019/02/06 17:25:18] Total 5400 files processed
+[INFO]-[2019/02/06 17:25:18] Total 5400 files processed
+[INFO]-[2019/02/06 17:25:19] Total 5450 files processed
+[INFO]-[2019/02/06 17:25:19] Total 5450 files processed
+[INFO]-[2019/02/06 17:25:20] Total 5500 files processed
+[INFO]-[2019/02/06 17:25:20] Total 5500 files processed
+[INFO]-[2019/02/06 17:25:21] Total 5550 files processed
+[INFO]-[2019/02/06 17:25:21] Total 5550 files processed
+[INFO]-[2019/02/06 17:25:22] Total 5600 files processed
+[INFO]-[2019/02/06 17:25:22] Total 5600 files processed
+[INFO]-[2019/02/06 17:25:23] Total 5650 files processed
+[INFO]-[2019/02/06 17:25:23] Total 5650 files processed
+[INFO]-[2019/02/06 17:25:25] Total 5700 files processed
+[INFO]-[2019/02/06 17:25:25] Total 5700 files processed
+[INFO]-[2019/02/06 17:25:26] Total 5750 files processed
+[INFO]-[2019/02/06 17:25:26] Total 5750 files processed
+[INFO]-[2019/02/06 17:25:28] Total 5800 files processed
+[INFO]-[2019/02/06 17:25:28] Total 5800 files processed
+[INFO]-[2019/02/06 17:25:29] Total 5850 files processed
+[INFO]-[2019/02/06 17:25:29] Total 5850 files processed
+[INFO]-[2019/02/06 17:25:31] Total 5900 files processed
+[INFO]-[2019/02/06 17:25:31] Total 5900 files processed
+[INFO]-[2019/02/06 17:25:33] Total 5950 files processed
+[INFO]-[2019/02/06 17:25:33] Total 5950 files processed
+[INFO]-[2019/02/06 17:25:35] Total 6000 files processed
+[INFO]-[2019/02/06 17:25:35] Total 6000 files processed
+[INFO]-[2019/02/06 17:25:36] Total 6050 files processed
+[INFO]-[2019/02/06 17:25:36] Total 6050 files processed
+[INFO]-[2019/02/06 17:25:38] Total 6100 files processed
+[INFO]-[2019/02/06 17:25:38] Total 6100 files processed
+[INFO]-[2019/02/06 17:25:40] Total 6150 files processed
+[INFO]-[2019/02/06 17:25:40] Total 6150 files processed
+[INFO]-[2019/02/06 17:25:41] Total 6200 files processed
+[INFO]-[2019/02/06 17:25:41] Total 6200 files processed
+[INFO]-[2019/02/06 17:25:42] Total 6250 files processed
+[INFO]-[2019/02/06 17:25:42] Total 6250 files processed
+[INFO]-[2019/02/06 17:25:43] Total 6300 files processed
+[INFO]-[2019/02/06 17:25:43] Total 6300 files processed
+[INFO]-[2019/02/06 17:25:44] Total 6350 files processed
+[INFO]-[2019/02/06 17:25:44] Total 6350 files processed
+[INFO]-[2019/02/06 17:25:45] Total 6400 files processed
+[INFO]-[2019/02/06 17:25:45] Total 6400 files processed
+[INFO]-[2019/02/06 17:25:46] Total 6450 files processed
+[INFO]-[2019/02/06 17:25:46] Total 6450 files processed
+[INFO]-[2019/02/06 17:25:47] Total 6500 files processed
+[INFO]-[2019/02/06 17:25:47] Total 6500 files processed
+[INFO]-[2019/02/06 17:25:48] Total 6550 files processed
+[INFO]-[2019/02/06 17:25:48] Total 6550 files processed
+[INFO]-[2019/02/06 17:25:49] Total 6600 files processed
+[INFO]-[2019/02/06 17:25:49] Total 6600 files processed
+[INFO]-[2019/02/06 17:25:50] Total 6650 files processed
+[INFO]-[2019/02/06 17:25:50] Total 6650 files processed
+[INFO]-[2019/02/06 17:25:51] Total 6700 files processed
+[INFO]-[2019/02/06 17:25:51] Total 6700 files processed
+[INFO]-[2019/02/06 17:25:53] Total 6750 files processed
+[INFO]-[2019/02/06 17:25:53] Total 6750 files processed
+[INFO]-[2019/02/06 17:25:54] Total 6800 files processed
+[INFO]-[2019/02/06 17:25:54] Total 6800 files processed
+[INFO]-[2019/02/06 17:25:55] Total 6850 files processed
+[INFO]-[2019/02/06 17:25:55] Total 6850 files processed
+[INFO]-[2019/02/06 17:25:57] Total 6900 files processed
+[INFO]-[2019/02/06 17:25:57] Total 6900 files processed
+[INFO]-[2019/02/06 17:25:58] Total 6950 files processed
+[INFO]-[2019/02/06 17:25:58] Total 6950 files processed
+[INFO]-[2019/02/06 17:25:59] Total 7000 files processed
+[INFO]-[2019/02/06 17:25:59] Total 7000 files processed
+[INFO]-[2019/02/06 17:26:01] Total 7050 files processed
+[INFO]-[2019/02/06 17:26:01] Total 7050 files processed
+[INFO]-[2019/02/06 17:26:03] Total 7100 files processed
+[INFO]-[2019/02/06 17:26:03] Total 7100 files processed
+[INFO]-[2019/02/06 17:26:04] Total 7150 files processed
+[INFO]-[2019/02/06 17:26:04] Total 7150 files processed
+[INFO]-[2019/02/06 17:26:05] Total 7200 files processed
+[INFO]-[2019/02/06 17:26:05] Total 7200 files processed
+[INFO]-[2019/02/06 17:26:06] Total 7250 files processed
+[INFO]-[2019/02/06 17:26:06] Total 7250 files processed
+[INFO]-[2019/02/06 17:26:07] Total 7300 files processed
+[INFO]-[2019/02/06 17:26:07] Total 7300 files processed
+[INFO]-[2019/02/06 17:26:08] Total 7350 files processed
+[INFO]-[2019/02/06 17:26:08] Total 7350 files processed
+[INFO]-[2019/02/06 17:26:09] Total 7400 files processed
+[INFO]-[2019/02/06 17:26:09] Total 7400 files processed
+[INFO]-[2019/02/06 17:26:12] Total 7450 files processed
+[INFO]-[2019/02/06 17:26:12] Total 7450 files processed
+[INFO]-[2019/02/06 17:26:13] Total 7500 files processed
+[INFO]-[2019/02/06 17:26:13] Total 7500 files processed
+[INFO]-[2019/02/06 17:26:14] Total 7550 files processed
+[INFO]-[2019/02/06 17:26:14] Total 7550 files processed
+[INFO]-[2019/02/06 17:26:15] Total 7600 files processed
+[INFO]-[2019/02/06 17:26:15] Total 7600 files processed
+[INFO]-[2019/02/06 17:26:16] Total 7650 files processed
+[INFO]-[2019/02/06 17:26:16] Total 7650 files processed
+[INFO]-[2019/02/06 17:26:18] Total 7700 files processed
+[INFO]-[2019/02/06 17:26:18] Total 7700 files processed
+[INFO]-[2019/02/06 17:26:19] Total 7750 files processed
+[INFO]-[2019/02/06 17:26:19] Total 7750 files processed
+[INFO]-[2019/02/06 17:26:22] Total 7800 files processed
+[INFO]-[2019/02/06 17:26:22] Total 7800 files processed
+[INFO]-[2019/02/06 17:26:24] Total 7850 files processed
+[INFO]-[2019/02/06 17:26:24] Total 7850 files processed
+[INFO]-[2019/02/06 17:26:25] Total 7900 files processed
+[INFO]-[2019/02/06 17:26:25] Total 7900 files processed
+[INFO]-[2019/02/06 17:26:27] Total 7950 files processed
+[INFO]-[2019/02/06 17:26:27] Total 7950 files processed
+[INFO]-[2019/02/06 17:26:28] Total 8000 files processed
+[INFO]-[2019/02/06 17:26:28] Total 8000 files processed
+[INFO]-[2019/02/06 17:26:30] Total 8050 files processed
+[INFO]-[2019/02/06 17:26:30] Total 8050 files processed
+[INFO]-[2019/02/06 17:26:32] Total 8100 files processed
+[INFO]-[2019/02/06 17:26:32] Total 8100 files processed
+[INFO]-[2019/02/06 17:26:34] Total 8150 files processed
+[INFO]-[2019/02/06 17:26:34] Total 8150 files processed
+[INFO]-[2019/02/06 17:26:36] Total 8200 files processed
+[INFO]-[2019/02/06 17:26:36] Total 8200 files processed
+[INFO]-[2019/02/06 17:26:38] Total 8250 files processed
+[INFO]-[2019/02/06 17:26:38] Total 8250 files processed
+[INFO]-[2019/02/06 17:26:39] Total 8300 files processed
+[INFO]-[2019/02/06 17:26:39] Total 8300 files processed
+[INFO]-[2019/02/06 17:26:40] Total 8350 files processed
+[INFO]-[2019/02/06 17:26:40] Total 8350 files processed
+[INFO]-[2019/02/06 17:26:42] Total 8400 files processed
+[INFO]-[2019/02/06 17:26:42] Total 8400 files processed
+[INFO]-[2019/02/06 17:26:44] Total 8450 files processed
+[INFO]-[2019/02/06 17:26:44] Total 8450 files processed
+[INFO]-[2019/02/06 17:26:45] Total 8500 files processed
+[INFO]-[2019/02/06 17:26:45] Total 8500 files processed
+[INFO]-[2019/02/06 17:26:46] Total 8550 files processed
+[INFO]-[2019/02/06 17:26:46] Total 8550 files processed
+[INFO]-[2019/02/06 17:26:47] Total 8600 files processed
+[INFO]-[2019/02/06 17:26:47] Total 8600 files processed
+[INFO]-[2019/02/06 17:26:48] Total 8650 files processed
+[INFO]-[2019/02/06 17:26:48] Total 8650 files processed
+[INFO]-[2019/02/06 17:26:50] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg
+[INFO]-[2019/02/06 17:26:50] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV_Power.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV_Power.jpg
+[INFO]-[2019/02/06 17:26:50] Total 8700 files processed
+[INFO]-[2019/02/06 17:26:50] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV-Charger-1600x1200.jpg
+[INFO]-[2019/02/06 17:26:50] Trying to copy big file: /home/content/p3pnexwpnas10_data01/75/42146275/html/wp-content/uploads/2018/10/EV_Power.jpg -> /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-content/uploads/2018/10/EV_Power.jpg
+[INFO]-[2019/02/06 17:26:50] Total 8700 files processed
+[INFO]-[2019/02/06 17:26:52] Total 8750 files processed
+[INFO]-[2019/02/06 17:26:52] Total 8750 files processed
+[INFO]-[2019/02/06 17:26:54] Total 8800 files processed
+[INFO]-[2019/02/06 17:26:54] Total 8800 files processed
+[INFO]-[2019/02/06 17:26:56] Total 8850 files processed
+[INFO]-[2019/02/06 17:26:56] Total 8850 files processed
+[INFO]-[2019/02/06 17:26:58] Total 8900 files processed
+[INFO]-[2019/02/06 17:26:58] Total 8900 files processed
+[INFO]-[2019/02/06 17:27:00] Total 8950 files processed
+[INFO]-[2019/02/06 17:27:00] Total 8950 files processed
+[INFO]-[2019/02/06 17:27:02] Total 9000 files processed
+[INFO]-[2019/02/06 17:27:02] Total 9000 files processed
+[INFO]-[2019/02/06 17:27:04] Total 9050 files processed
+[INFO]-[2019/02/06 17:27:04] Total 9050 files processed
+[INFO]-[2019/02/06 17:27:06] Total 9100 files processed
+[INFO]-[2019/02/06 17:27:06] Total 9100 files processed
+[INFO]-[2019/02/06 17:27:08] Total 9150 files processed
+[INFO]-[2019/02/06 17:27:08] Total 9150 files processed
+[INFO]-[2019/02/06 17:27:10] Total 9200 files processed
+[INFO]-[2019/02/06 17:27:10] Total 9200 files processed
+[INFO]-[2019/02/06 17:27:12] Total 9250 files processed
+[INFO]-[2019/02/06 17:27:12] Total 9250 files processed
+[INFO]-[2019/02/06 17:27:14] Total 9300 files processed
+[INFO]-[2019/02/06 17:27:14] Total 9300 files processed
+[INFO]-[2019/02/06 17:27:16] Total 9350 files processed
+[INFO]-[2019/02/06 17:27:16] Total 9350 files processed
+[INFO]-[2019/02/06 17:27:18] Total 9400 files processed
+[INFO]-[2019/02/06 17:27:18] Total 9400 files processed
+[INFO]-[2019/02/06 17:27:20] Total 9450 files processed
+[INFO]-[2019/02/06 17:27:20] Total 9450 files processed
+[INFO]-[2019/02/06 17:27:21] Total 9500 files processed
+[INFO]-[2019/02/06 17:27:21] Total 9500 files processed
+[INFO]-[2019/02/06 17:27:22] Total 9550 files processed
+[INFO]-[2019/02/06 17:27:22] Total 9550 files processed
+[INFO]-[2019/02/06 17:27:23] Total 9600 files processed
+[INFO]-[2019/02/06 17:27:23] Total 9600 files processed
+[INFO]-[2019/02/06 17:27:24] Total 9650 files processed
+[INFO]-[2019/02/06 17:27:24] Total 9650 files processed
+[INFO]-[2019/02/06 17:27:26] Total 9700 files processed
+[INFO]-[2019/02/06 17:27:26] Total 9700 files processed
+[INFO]-[2019/02/06 17:27:27] Total 9750 files processed
+[INFO]-[2019/02/06 17:27:27] Total 9750 files processed
+[INFO]-[2019/02/06 17:27:28] Total 9800 files processed
+[INFO]-[2019/02/06 17:27:28] Total 9800 files processed
+[INFO]-[2019/02/06 17:27:29] Total 9850 files processed
+[INFO]-[2019/02/06 17:27:29] Total 9850 files processed
+[INFO]-[2019/02/06 17:27:30] Total 9900 files processed
+[INFO]-[2019/02/06 17:27:30] Total 9900 files processed
+[INFO]-[2019/02/06 17:27:31] Total 9950 files processed
+[INFO]-[2019/02/06 17:27:31] Total 9950 files processed
+[INFO]-[2019/02/06 17:27:32] Total 10000 files processed
+[INFO]-[2019/02/06 17:27:32] Total 10000 files processed
+[INFO]-[2019/02/06 17:27:34] Total 10050 files processed
+[INFO]-[2019/02/06 17:27:34] Total 10050 files processed
+[INFO]-[2019/02/06 17:27:35] Total 10100 files processed
+[INFO]-[2019/02/06 17:27:35] Total 10100 files processed
+[INFO]-[2019/02/06 17:27:36] Total 10150 files processed
+[INFO]-[2019/02/06 17:27:36] Total 10150 files processed
+[INFO]-[2019/02/06 17:27:37] Total 10200 files processed
+[INFO]-[2019/02/06 17:27:37] Total 10200 files processed
+[INFO]-[2019/02/06 17:27:38] Total 10250 files processed
+[INFO]-[2019/02/06 17:27:38] Total 10250 files processed
+[INFO]-[2019/02/06 17:27:40] Total 10300 files processed
+[INFO]-[2019/02/06 17:27:40] Total 10300 files processed
+[INFO]-[2019/02/06 17:27:41] Total 10350 files processed
+[INFO]-[2019/02/06 17:27:41] Total 10350 files processed
+[INFO]-[2019/02/06 17:27:42] Total 10400 files processed
+[INFO]-[2019/02/06 17:27:42] Total 10400 files processed
+[INFO]-[2019/02/06 17:27:43] Total 10450 files processed
+[INFO]-[2019/02/06 17:27:43] Total 10450 files processed
+[INFO]-[2019/02/06 17:27:44] Total 10500 files processed
+[INFO]-[2019/02/06 17:27:44] Total 10500 files processed
+[INFO]-[2019/02/06 17:27:45] Total 10550 files processed
+[INFO]-[2019/02/06 17:27:45] Total 10550 files processed
+[INFO]-[2019/02/06 17:27:46] Total 10600 files processed
+[INFO]-[2019/02/06 17:27:46] Total 10600 files processed
+[INFO]-[2019/02/06 17:27:47] Total 10650 files processed
+[INFO]-[2019/02/06 17:27:47] Total 10650 files processed
+[INFO]-[2019/02/06 17:27:48] Total 10700 files processed
+[INFO]-[2019/02/06 17:27:48] Total 10700 files processed
+[INFO]-[2019/02/06 17:27:49] Total 10750 files processed
+[INFO]-[2019/02/06 17:27:49] Total 10750 files processed
+[INFO]-[2019/02/06 17:27:50] Total 10800 files processed
+[INFO]-[2019/02/06 17:27:50] Total 10800 files processed
+[INFO]-[2019/02/06 17:27:51] Total 10850 files processed
+[INFO]-[2019/02/06 17:27:51] Total 10850 files processed
+[INFO]-[2019/02/06 17:27:52] Total 10900 files processed
+[INFO]-[2019/02/06 17:27:52] Total 10900 files processed
+[INFO]-[2019/02/06 17:27:53] Total 10950 files processed
+[INFO]-[2019/02/06 17:27:53] Total 10950 files processed
+[INFO]-[2019/02/06 17:27:54] Total 11000 files processed
+[INFO]-[2019/02/06 17:27:54] Total 11000 files processed
+[INFO]-[2019/02/06 17:27:55] Total 11050 files processed
+[INFO]-[2019/02/06 17:27:55] Total 11050 files processed
+[INFO]-[2019/02/06 17:27:56] Total 11100 files processed
+[INFO]-[2019/02/06 17:27:56] Total 11100 files processed
+[INFO]-[2019/02/06 17:27:57] Total 11150 files processed
+[INFO]-[2019/02/06 17:27:57] Total 11150 files processed
+[INFO]-[2019/02/06 17:27:58] Total 11200 files processed
+[INFO]-[2019/02/06 17:27:58] Total 11200 files processed
+[INFO]-[2019/02/06 17:27:59] Total 11250 files processed
+[INFO]-[2019/02/06 17:27:59] Total 11250 files processed
+[INFO]-[2019/02/06 17:28:00] Total 11300 files processed
+[INFO]-[2019/02/06 17:28:00] Total 11300 files processed
+[INFO]-[2019/02/06 17:28:01] Total 11350 files processed
+[INFO]-[2019/02/06 17:28:01] Total 11350 files processed
+[INFO]-[2019/02/06 17:28:02] Total 11400 files processed
+[INFO]-[2019/02/06 17:28:02] Total 11400 files processed
+[INFO]-[2019/02/06 17:28:03] Total 11450 files processed
+[INFO]-[2019/02/06 17:28:03] Total 11450 files processed
+[INFO]-[2019/02/06 17:28:04] Total 11500 files processed
+[INFO]-[2019/02/06 17:28:04] Total 11500 files processed
+[INFO]-[2019/02/06 17:28:05] Total 11550 files processed
+[INFO]-[2019/02/06 17:28:05] Total 11550 files processed
+[INFO]-[2019/02/06 17:28:06] Total 11600 files processed
+[INFO]-[2019/02/06 17:28:06] Total 11600 files processed
+[INFO]-[2019/02/06 17:28:07] Total 11650 files processed
+[INFO]-[2019/02/06 17:28:07] Total 11650 files processed
+[INFO]-[2019/02/06 17:28:08] Total 11700 files processed
+[INFO]-[2019/02/06 17:28:08] Total 11700 files processed
+[INFO]-[2019/02/06 17:28:09] Total 11750 files processed
+[INFO]-[2019/02/06 17:28:09] Total 11750 files processed
+[INFO]-[2019/02/06 17:28:10] Total 11800 files processed
+[INFO]-[2019/02/06 17:28:10] Total 11800 files processed
+[INFO]-[2019/02/06 17:28:11] Total 11850 files processed
+[INFO]-[2019/02/06 17:28:11] Total 11850 files processed
+[INFO]-[2019/02/06 17:28:13] Total 11900 files processed
+[INFO]-[2019/02/06 17:28:13] Total 11900 files processed
+[INFO]-[2019/02/06 17:28:14] Total 11950 files processed
+[INFO]-[2019/02/06 17:28:14] Total 11950 files processed
+[INFO]-[2019/02/06 17:28:15] Total 12000 files processed
+[INFO]-[2019/02/06 17:28:15] Total 12000 files processed
+[INFO]-[2019/02/06 17:28:16] Total 12050 files processed
+[INFO]-[2019/02/06 17:28:16] Total 12050 files processed
+[INFO]-[2019/02/06 17:28:17] Total 12100 files processed
+[INFO]-[2019/02/06 17:28:17] Total 12100 files processed
+[INFO]-[2019/02/06 17:28:18] Total 12150 files processed
+[INFO]-[2019/02/06 17:28:18] Total 12150 files processed
+[INFO]-[2019/02/06 17:28:19] Total 12200 files processed
+[INFO]-[2019/02/06 17:28:19] Total 12200 files processed
+[INFO]-[2019/02/06 17:28:21] Total 12250 files processed
+[INFO]-[2019/02/06 17:28:21] Total 12250 files processed
+[INFO]-[2019/02/06 17:28:22] Total 12300 files processed
+[INFO]-[2019/02/06 17:28:22] Total 12300 files processed
+[INFO]-[2019/02/06 17:28:27] Total 12350 files processed
+[INFO]-[2019/02/06 17:28:27] Total 12350 files processed
+[INFO]-[2019/02/06 17:28:28] Total 12400 files processed
+[INFO]-[2019/02/06 17:28:28] Total 12400 files processed
+[WARNING]-[2019/02/06 17:28:29] File doesn't exist /home/content/p3pnexwpnas10_data01/75/42146275/html/
+[WARNING]-[2019/02/06 17:28:29] File doesn't exist /home/content/p3pnexwpnas10_data01/75/42146275/html/
+[INFO]-[2019/02/06 17:28:30] Copying files finished
+[INFO]-[2019/02/06 17:28:30] Copying files finished
+[INFO]-[2019/02/06 17:28:30] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2019/02/06 17:28:30] Preparing Data Step0: Skip it
+[INFO]-[2019/02/06 17:28:30] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2019/02/06 17:28:30] Preparing Data Step0: Skip it
+[INFO]-[2019/02/06 17:28:31] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/02/06 17:28:31] Preparing Data Step1: Updating siteurl and homeurl to http://greenwattpower.com/gwpdev
+[INFO]-[2019/02/06 17:28:31] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/02/06 17:28:31] Preparing Data Step1: Updating siteurl and homeurl to http://greenwattpower.com/gwpdev
+[INFO]-[2019/02/06 17:28:32] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/02/06 17:28:32] Preparing Data Step2: Successfull
+[INFO]-[2019/02/06 17:28:32] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/02/06 17:28:32] Preparing Data Step2: Successfull
+[INFO]-[2019/02/06 17:28:33] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/02/06 17:28:33] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/02/06 17:28:34] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/02/06 17:28:34] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/02/06 17:28:35] Preparing Data Step5: Updating table_prefix in /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-config.php to wpstg0_
+[INFO]-[2019/02/06 17:28:35] Preparing Data Step5: Updating table_prefix in /home/content/p3pnexwpnas10_data01/75/42146275/html/gwpdev/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:28:37] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/02/06 17:28:37] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/02/06 17:28:37] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/02/06 17:28:37] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/02/06 17:28:38] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/02/06 17:28:38] Preparing Data Step8: Finished successfully
+[INFO]-[2019/02/06 17:28:38] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/02/06 17:28:38] Preparing Data Step8: Finished successfully
+[INFO]-[2019/02/06 17:28:39] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/02/06 17:28:39] Preparing Data Step9: Finished successfully
+[INFO]-[2019/02/06 17:28:39] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/02/06 17:28:39] Preparing Data Step9: Finished successfully
+[INFO]-[2019/02/06 17:28:40] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/02/06 17:28:40] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:40] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/02/06 17:28:40] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/02/06 17:28:40] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:40] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/02/06 17:28:41] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/02/06 17:28:41] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:41] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/02/06 17:28:41] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://greenwattpower.com/gwpdev
+[INFO]-[2019/02/06 17:28:41] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:41] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/02/06 17:28:42] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/02/06 17:28:42] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/02/06 17:28:42] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/02/06 17:28:42] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/02/06 17:28:43] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/02/06 17:28:43] Preparing Data Step13: Skipped
+[INFO]-[2019/02/06 17:28:43] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/02/06 17:28:43] Preparing Data Step13: Skipped
+[INFO]-[2019/02/06 17:28:44] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/02/06 17:28:44] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:44] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/02/06 17:28:44] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/02/06 17:28:44] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:44] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/02/06 17:28:45] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/02/06 17:28:45] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:45] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/02/06 17:28:45] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/02/06 17:28:45] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:45] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/02/06 17:28:46] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/02/06 17:28:46] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:46] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/02/06 17:28:46] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/02/06 17:28:46] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/02/06 17:28:46] Preparing Data Step 16: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/02/06 17:28:47] Finish: Deleting clone job's cache files...
+[INFO]-[2019/02/06 17:28:47] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/02/06 17:28:47] Finish: Verifying existing clones...
+[INFO]-[2019/02/06 17:28:48] Finish: The job finished!
+[INFO]-[2019/02/06 17:28:47] Finish: Deleting clone job's cache files...
+[INFO]-[2019/02/06 17:28:47] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/02/06 17:28:47] Finish: Verifying existing clones...
+[INFO]-[2019/02/06 17:28:48] Finish: The job finished!
